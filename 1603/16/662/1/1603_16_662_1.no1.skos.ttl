@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,50 +26,60 @@
 <urn:mdciii:1603:16:662:1:10>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:10" ;
-    skos:prefLabel "Micoud"@eng-Latn .
+    skos:prefLabel "Micoud"@eng-Latn ;
+    wdata:q7200235 "LC10" .
 
 <urn:mdciii:1603:16:662:1:11>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:11" ;
-    skos:prefLabel "Dennery"@eng-Latn .
+    skos:prefLabel "Dennery"@eng-Latn ;
+    wdata:q7200235 "LC11" .
 
 <urn:mdciii:1603:16:662:1:12>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:12" ;
-    skos:prefLabel "Gros Islet"@eng-Latn .
+    skos:prefLabel "Gros Islet"@eng-Latn ;
+    wdata:q7200235 "LC12" .
 
 <urn:mdciii:1603:16:662:1:13>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:13" ;
-    skos:prefLabel "Castries"@eng-Latn .
+    skos:prefLabel "Castries"@eng-Latn ;
+    wdata:q7200235 "LC13" .
 
 <urn:mdciii:1603:16:662:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:4" ;
-    skos:prefLabel "Anse La Raye"@eng-Latn .
+    skos:prefLabel "Anse La Raye"@eng-Latn ;
+    wdata:q7200235 "LC04" .
 
 <urn:mdciii:1603:16:662:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:5" ;
-    skos:prefLabel "Canaries"@eng-Latn .
+    skos:prefLabel "Canaries"@eng-Latn ;
+    wdata:q7200235 "LC05" .
 
 <urn:mdciii:1603:16:662:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:6" ;
-    skos:prefLabel "Soufriere"@eng-Latn .
+    skos:prefLabel "Soufriere"@eng-Latn ;
+    wdata:q7200235 "LC06" .
 
 <urn:mdciii:1603:16:662:1:7>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:7" ;
-    skos:prefLabel "Choiseul"@eng-Latn .
+    skos:prefLabel "Choiseul"@eng-Latn ;
+    wdata:q7200235 "LC07" .
 
 <urn:mdciii:1603:16:662:1:8>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:8" ;
-    skos:prefLabel "Laborie"@eng-Latn .
+    skos:prefLabel "Laborie"@eng-Latn ;
+    wdata:q7200235 "LC08" .
 
 <urn:mdciii:1603:16:662:1:9>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:662:1:9" ;
-    skos:prefLabel "Vieux-Fort"@eng-Latn .
+    skos:prefLabel "Vieux-Fort"@eng-Latn ;
+    wdata:q7200235 "LC09" .
 
