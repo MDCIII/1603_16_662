@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Anse La Raye"@eng-Latn ;
-    wdata:q7200235 "LC04" ;
+    wdata:Q7200235 "LC04" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +54,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Micoud"@eng-Latn ;
-    wdata:q7200235 "LC10" ;
+    wdata:Q7200235 "LC10" ;
 .
 
 <urn:mdciii:1603:16:662:1:11>
@@ -65,7 +65,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Dennery"@eng-Latn ;
-    wdata:q7200235 "LC11" ;
+    wdata:Q7200235 "LC11" ;
 .
 
 <urn:mdciii:1603:16:662:1:12>
@@ -76,7 +76,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Gros Islet"@eng-Latn ;
-    wdata:q7200235 "LC12" ;
+    wdata:Q7200235 "LC12" ;
 .
 
 <urn:mdciii:1603:16:662:1:13>
@@ -87,7 +87,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Castries"@eng-Latn ;
-    wdata:q7200235 "LC13" ;
+    wdata:Q7200235 "LC13" ;
 .
 
 <urn:mdciii:1603:16:662:1:5>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Canaries"@eng-Latn ;
-    wdata:q7200235 "LC05" ;
+    wdata:Q7200235 "LC05" ;
 .
 
 <urn:mdciii:1603:16:662:1:6>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Soufriere"@eng-Latn ;
-    wdata:q7200235 "LC06" ;
+    wdata:Q7200235 "LC06" ;
 .
 
 <urn:mdciii:1603:16:662:1:7>
@@ -120,7 +120,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Choiseul"@eng-Latn ;
-    wdata:q7200235 "LC07" ;
+    wdata:Q7200235 "LC07" ;
 .
 
 <urn:mdciii:1603:16:662:1:8>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Laborie"@eng-Latn ;
-    wdata:q7200235 "LC08" ;
+    wdata:Q7200235 "LC08" ;
 .
 
 <urn:mdciii:1603:16:662:1:9>
@@ -142,6 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:662:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:0> ;
     skos:prefLabel "Vieux-Fort"@eng-Latn ;
-    wdata:q7200235 "LC09" ;
+    wdata:Q7200235 "LC09" ;
 .
 

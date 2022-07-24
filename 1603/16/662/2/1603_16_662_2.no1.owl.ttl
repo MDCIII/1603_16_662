@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Au Tabor"@eng-Latn ;
-    wdata:q7200235 "LC04040020000" ;
+    wdata:Q7200235 "LC04040020000" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -593,7 +593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Anbre"@eng-Latn ;
-    wdata:q7200235 "LC10100010000" ;
+    wdata:Q7200235 "LC10100010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100030000>
@@ -605,7 +605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Anse Ger"@eng-Latn ;
-    wdata:q7200235 "LC10100030000" ;
+    wdata:Q7200235 "LC10100030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100060000>
@@ -617,7 +617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Beauchamp"@eng-Latn ;
-    wdata:q7200235 "LC10100060000" ;
+    wdata:Q7200235 "LC10100060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100070000>
@@ -629,7 +629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Catter Beaufond"@eng-Latn ;
-    wdata:q7200235 "LC10100070000" ;
+    wdata:Q7200235 "LC10100070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090000>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Blanchard"@eng-Latn ;
-    wdata:q7200235 "LC10100090000" ;
+    wdata:Q7200235 "LC10100090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090200>
@@ -653,7 +653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Chique/Blanchard"@eng-Latn ;
-    wdata:q7200235 "LC10100090200" ;
+    wdata:Q7200235 "LC10100090200" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090300>
@@ -665,7 +665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Gomier"@eng-Latn ;
-    wdata:q7200235 "LC10100090300" ;
+    wdata:Q7200235 "LC10100090300" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090400>
@@ -677,7 +677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Gouette"@eng-Latn ;
-    wdata:q7200235 "LC10100090400" ;
+    wdata:Q7200235 "LC10100090400" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090500>
@@ -689,7 +689,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Lezy"@eng-Latn ;
-    wdata:q7200235 "LC10100090500" ;
+    wdata:Q7200235 "LC10100090500" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100090600>
@@ -701,7 +701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Morne Vient"@eng-Latn ;
-    wdata:q7200235 "LC10100090600" ;
+    wdata:Q7200235 "LC10100090600" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100110000>
@@ -713,7 +713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Calypso"@eng-Latn ;
-    wdata:q7200235 "LC10100110000" ;
+    wdata:Q7200235 "LC10100110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100120000>
@@ -725,7 +725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Canelles"@eng-Latn ;
-    wdata:q7200235 "LC10100120000" ;
+    wdata:Q7200235 "LC10100120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100130000>
@@ -737,7 +737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Carriere"@eng-Latn ;
-    wdata:q7200235 "LC10100130000" ;
+    wdata:Q7200235 "LC10100130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100140000>
@@ -749,7 +749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Cazuca"@eng-Latn ;
-    wdata:q7200235 "LC10100140000" ;
+    wdata:Q7200235 "LC10100140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100160000>
@@ -761,7 +761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Delomel"@eng-Latn ;
-    wdata:q7200235 "LC10100160000" ;
+    wdata:Q7200235 "LC10100160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100170000>
@@ -773,7 +773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Desruisseaux"@eng-Latn ;
-    wdata:q7200235 "LC10100170000" ;
+    wdata:Q7200235 "LC10100170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100170300>
@@ -785,7 +785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "En Mango"@eng-Latn ;
-    wdata:q7200235 "LC10100170300" ;
+    wdata:Q7200235 "LC10100170300" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100170400>
@@ -797,7 +797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Fond/Desruisseaux"@eng-Latn ;
-    wdata:q7200235 "LC10100170400" ;
+    wdata:Q7200235 "LC10100170400" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100170500>
@@ -809,7 +809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "London Road"@eng-Latn ;
-    wdata:q7200235 "LC10100170500" ;
+    wdata:Q7200235 "LC10100170500" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100180000>
@@ -821,7 +821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Dugard"@eng-Latn ;
-    wdata:q7200235 "LC10100180000" ;
+    wdata:Q7200235 "LC10100180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100180100>
@@ -833,7 +833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Fond Dor/Dugard"@eng-Latn ;
-    wdata:q7200235 "LC10100180100" ;
+    wdata:Q7200235 "LC10100180100" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100210000>
@@ -845,7 +845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Escap"@eng-Latn ;
-    wdata:q7200235 "LC10100210000" ;
+    wdata:Q7200235 "LC10100210000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100240000>
@@ -857,7 +857,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Fond Estate"@eng-Latn ;
-    wdata:q7200235 "LC10100240000" ;
+    wdata:Q7200235 "LC10100240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100260000>
@@ -869,7 +869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Galba"@eng-Latn ;
-    wdata:q7200235 "LC10100260000" ;
+    wdata:Q7200235 "LC10100260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100280000>
@@ -881,7 +881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Courville"@eng-Latn ;
-    wdata:q7200235 "LC10100280000" ;
+    wdata:Q7200235 "LC10100280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100290000>
@@ -893,7 +893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Fille"@eng-Latn ;
-    wdata:q7200235 "LC10100290000" ;
+    wdata:Q7200235 "LC10100290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100300000>
@@ -905,7 +905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Pointe"@eng-Latn ;
-    wdata:q7200235 "LC10100300000" ;
+    wdata:Q7200235 "LC10100300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100310000>
@@ -917,7 +917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Latille"@eng-Latn ;
-    wdata:q7200235 "LC10100310000" ;
+    wdata:Q7200235 "LC10100310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100320000>
@@ -929,7 +929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "L'Eau Mineau"@eng-Latn ;
-    wdata:q7200235 "LC10100320000" ;
+    wdata:Q7200235 "LC10100320000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100330000>
@@ -941,7 +941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Lombard"@eng-Latn ;
-    wdata:q7200235 "LC10100330000" ;
+    wdata:Q7200235 "LC10100330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100340000>
@@ -953,7 +953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Mahaut"@eng-Latn ;
-    wdata:q7200235 "LC10100340000" ;
+    wdata:Q7200235 "LC10100340000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100350000>
@@ -965,7 +965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Malgretoute"@eng-Latn ;
-    wdata:q7200235 "LC10100350000" ;
+    wdata:Q7200235 "LC10100350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100360000>
@@ -977,7 +977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Mamiku"@eng-Latn ;
-    wdata:q7200235 "LC10100360000" ;
+    wdata:Q7200235 "LC10100360000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100370000>
@@ -989,7 +989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Mon Repos"@eng-Latn ;
-    wdata:q7200235 "LC10100370000" ;
+    wdata:Q7200235 "LC10100370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100380000>
@@ -1001,7 +1001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Moreau"@eng-Latn ;
-    wdata:q7200235 "LC10100380000" ;
+    wdata:Q7200235 "LC10100380000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100400000>
@@ -1013,7 +1013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Myette Gardens"@eng-Latn ;
-    wdata:q7200235 "LC10100400000" ;
+    wdata:Q7200235 "LC10100400000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100410000>
@@ -1025,7 +1025,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "New Village"@eng-Latn ;
-    wdata:q7200235 "LC10100410000" ;
+    wdata:Q7200235 "LC10100410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100420000>
@@ -1037,7 +1037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Palmiste Estate"@eng-Latn ;
-    wdata:q7200235 "LC10100420000" ;
+    wdata:Q7200235 "LC10100420000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100430000>
@@ -1049,7 +1049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Patience"@eng-Latn ;
-    wdata:q7200235 "LC10100430000" ;
+    wdata:Q7200235 "LC10100430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100430100>
@@ -1061,7 +1061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Coolie Town"@eng-Latn ;
-    wdata:q7200235 "LC10100430100" ;
+    wdata:Q7200235 "LC10100430100" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100460000>
@@ -1073,7 +1073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Planard"@eng-Latn ;
-    wdata:q7200235 "LC10100460000" ;
+    wdata:Q7200235 "LC10100460000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100470000>
@@ -1085,7 +1085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Praslin"@eng-Latn ;
-    wdata:q7200235 "LC10100470000" ;
+    wdata:Q7200235 "LC10100470000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100480000>
@@ -1097,7 +1097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Rouarne"@eng-Latn ;
-    wdata:q7200235 "LC10100480000" ;
+    wdata:Q7200235 "LC10100480000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100490000>
@@ -1109,7 +1109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Savannes"@eng-Latn ;
-    wdata:q7200235 "LC10100490000" ;
+    wdata:Q7200235 "LC10100490000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100510000>
@@ -1121,7 +1121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Saint Marie Road"@eng-Latn ;
-    wdata:q7200235 "LC10100510000" ;
+    wdata:Q7200235 "LC10100510000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100520000>
@@ -1133,7 +1133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Ti Riviere"@eng-Latn ;
-    wdata:q7200235 "LC10100520000" ;
+    wdata:Q7200235 "LC10100520000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100530000>
@@ -1145,7 +1145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Ti Rocher"@eng-Latn ;
-    wdata:q7200235 "LC10100530000" ;
+    wdata:Q7200235 "LC10100530000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100530100>
@@ -1157,7 +1157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Saut"@eng-Latn ;
-    wdata:q7200235 "LC10100530100" ;
+    wdata:Q7200235 "LC10100530100" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100530200>
@@ -1169,7 +1169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Des Blanchard"@eng-Latn ;
-    wdata:q7200235 "LC10100530200" ;
+    wdata:Q7200235 "LC10100530200" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100530400>
@@ -1181,7 +1181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Paix Bouche"@eng-Latn ;
-    wdata:q7200235 "LC10100530400" ;
+    wdata:Q7200235 "LC10100530400" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100530600>
@@ -1193,7 +1193,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Tou Cochon"@eng-Latn ;
-    wdata:q7200235 "LC10100530600" ;
+    wdata:Q7200235 "LC10100530600" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100540000>
@@ -1205,7 +1205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Troumassee"@eng-Latn ;
-    wdata:q7200235 "LC10100540000" ;
+    wdata:Q7200235 "LC10100540000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100570000>
@@ -1217,7 +1217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Village"@eng-Latn ;
-    wdata:q7200235 "LC10100570000" ;
+    wdata:Q7200235 "LC10100570000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100580000>
@@ -1229,7 +1229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Volet"@eng-Latn ;
-    wdata:q7200235 "LC10100580000" ;
+    wdata:Q7200235 "LC10100580000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100590000>
@@ -1241,7 +1241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "St Helen Estate"@eng-Latn ;
-    wdata:q7200235 "LC10100590000" ;
+    wdata:Q7200235 "LC10100590000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100600000>
@@ -1253,7 +1253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Rameau"@eng-Latn ;
-    wdata:q7200235 "LC10100600000" ;
+    wdata:Q7200235 "LC10100600000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100610000>
@@ -1265,7 +1265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Honeymoon Beach"@eng-Latn ;
-    wdata:q7200235 "LC10100610000" ;
+    wdata:Q7200235 "LC10100610000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100620000>
@@ -1277,7 +1277,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Raillon Road"@eng-Latn ;
-    wdata:q7200235 "LC10100620000" ;
+    wdata:Q7200235 "LC10100620000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100630000>
@@ -1289,7 +1289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Six Miles/Descatier"@eng-Latn ;
-    wdata:q7200235 "LC10100630000" ;
+    wdata:Q7200235 "LC10100630000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100640000>
@@ -1301,7 +1301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Bois Canot"@eng-Latn ;
-    wdata:q7200235 "LC10100640000" ;
+    wdata:Q7200235 "LC10100640000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100650000>
@@ -1313,7 +1313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "L'Orangerie Road"@eng-Latn ;
-    wdata:q7200235 "LC10100650000" ;
+    wdata:Q7200235 "LC10100650000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100660000>
@@ -1325,7 +1325,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Haut"@eng-Latn ;
-    wdata:q7200235 "LC10100660000" ;
+    wdata:Q7200235 "LC10100660000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100670000>
@@ -1337,7 +1337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Mount Erole"@eng-Latn ;
-    wdata:q7200235 "LC10100670000" ;
+    wdata:Q7200235 "LC10100670000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100680000>
@@ -1349,7 +1349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Mine'"@eng-Latn ;
-    wdata:q7200235 "LC10100680000" ;
+    wdata:Q7200235 "LC10100680000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100690000>
@@ -1361,7 +1361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Gwen Ba"@eng-Latn ;
-    wdata:q7200235 "LC10100690000" ;
+    wdata:Q7200235 "LC10100690000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100700000>
@@ -1373,7 +1373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "La Croix"@eng-Latn ;
-    wdata:q7200235 "LC10100700000" ;
+    wdata:Q7200235 "LC10100700000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100710000>
@@ -1385,7 +1385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "L'Union"@eng-Latn ;
-    wdata:q7200235 "LC10100710000" ;
+    wdata:Q7200235 "LC10100710000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100720000>
@@ -1397,7 +1397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Pelouze"@eng-Latn ;
-    wdata:q7200235 "LC10100720000" ;
+    wdata:Q7200235 "LC10100720000" ;
 .
 
 <urn:mdciii:1603:16:662:2:10100740000>
@@ -1409,7 +1409,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:10> ;
     skos:prefLabel "Choucomel"@eng-Latn ;
-    wdata:q7200235 "LC10100740000" ;
+    wdata:Q7200235 "LC10100740000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110010000>
@@ -1421,7 +1421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Anse Canot"@eng-Latn ;
-    wdata:q7200235 "LC11110010000" ;
+    wdata:Q7200235 "LC11110010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110020000>
@@ -1433,7 +1433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Athens"@eng-Latn ;
-    wdata:q7200235 "LC11110020000" ;
+    wdata:Q7200235 "LC11110020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110030000>
@@ -1445,7 +1445,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Au Leon"@eng-Latn ;
-    wdata:q7200235 "LC11110030000" ;
+    wdata:Q7200235 "LC11110030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110040000>
@@ -1457,7 +1457,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Bara Bara"@eng-Latn ;
-    wdata:q7200235 "LC11110040000" ;
+    wdata:Q7200235 "LC11110040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110060000>
@@ -1469,7 +1469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Barre De L'Isle"@eng-Latn ;
-    wdata:q7200235 "LC11110060000" ;
+    wdata:Q7200235 "LC11110060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110070000>
@@ -1481,7 +1481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Bazile"@eng-Latn ;
-    wdata:q7200235 "LC11110070000" ;
+    wdata:Q7200235 "LC11110070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110080000>
@@ -1493,7 +1493,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Mount Beaujolais"@eng-Latn ;
-    wdata:q7200235 "LC11110080000" ;
+    wdata:Q7200235 "LC11110080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110090000>
@@ -1505,7 +1505,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Belmont"@eng-Latn ;
-    wdata:q7200235 "LC11110090000" ;
+    wdata:Q7200235 "LC11110090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110100000>
@@ -1517,7 +1517,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Bois Joli"@eng-Latn ;
-    wdata:q7200235 "LC11110100000" ;
+    wdata:Q7200235 "LC11110100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110110000>
@@ -1529,7 +1529,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Bosquet D'Or"@eng-Latn ;
-    wdata:q7200235 "LC11110110000" ;
+    wdata:Q7200235 "LC11110110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110120000>
@@ -1541,7 +1541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dennery By Pass"@eng-Latn ;
-    wdata:q7200235 "LC11110120000" ;
+    wdata:Q7200235 "LC11110120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110120100>
@@ -1553,7 +1553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dennery By Pass/Green Mountain"@eng-Latn ;
-    wdata:q7200235 "LC11110120100" ;
+    wdata:Q7200235 "LC11110120100" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110120200>
@@ -1565,7 +1565,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dennery By Pass/Rocky Lane"@eng-Latn ;
-    wdata:q7200235 "LC11110120200" ;
+    wdata:Q7200235 "LC11110120200" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110120300>
@@ -1577,7 +1577,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dennery By Pass/White Rock Gardens"@eng-Latn ;
-    wdata:q7200235 "LC11110120300" ;
+    wdata:Q7200235 "LC11110120300" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110130000>
@@ -1589,7 +1589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Delaide"@eng-Latn ;
-    wdata:q7200235 "LC11110130000" ;
+    wdata:Q7200235 "LC11110130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110140000>
@@ -1601,7 +1601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Derniere Riviere"@eng-Latn ;
-    wdata:q7200235 "LC11110140000" ;
+    wdata:Q7200235 "LC11110140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110140100>
@@ -1613,7 +1613,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Derniere Riviere/Morne Panache"@eng-Latn ;
-    wdata:q7200235 "LC11110140100" ;
+    wdata:Q7200235 "LC11110140100" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110140200>
@@ -1625,7 +1625,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Derniere Riviere/Mardi Gras/Morne Caca Cochon"@eng-Latn ;
-    wdata:q7200235 "LC11110140200" ;
+    wdata:Q7200235 "LC11110140200" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110140300>
@@ -1637,7 +1637,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Derniere Riviere/Fond Maricient"@eng-Latn ;
-    wdata:q7200235 "LC11110140300" ;
+    wdata:Q7200235 "LC11110140300" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110140400>
@@ -1649,7 +1649,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Derniere Riviere/Fond Petit"@eng-Latn ;
-    wdata:q7200235 "LC11110140400" ;
+    wdata:Q7200235 "LC11110140400" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110150000>
@@ -1661,7 +1661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Despinoze"@eng-Latn ;
-    wdata:q7200235 "LC11110150000" ;
+    wdata:Q7200235 "LC11110150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110170000>
@@ -1673,7 +1673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dubonaire"@eng-Latn ;
-    wdata:q7200235 "LC11110170000" ;
+    wdata:Q7200235 "LC11110170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110180000>
@@ -1685,7 +1685,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Errard"@eng-Latn ;
-    wdata:q7200235 "LC11110180000" ;
+    wdata:Q7200235 "LC11110180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110190000>
@@ -1697,7 +1697,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Fond D'Or"@eng-Latn ;
-    wdata:q7200235 "LC11110190000" ;
+    wdata:Q7200235 "LC11110190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110220000>
@@ -1709,7 +1709,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Gadette"@eng-Latn ;
-    wdata:q7200235 "LC11110220000" ;
+    wdata:Q7200235 "LC11110220000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110230000>
@@ -1721,7 +1721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Glavier"@eng-Latn ;
-    wdata:q7200235 "LC11110230000" ;
+    wdata:Q7200235 "LC11110230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110240000>
@@ -1733,7 +1733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Ravine"@eng-Latn ;
-    wdata:q7200235 "LC11110240000" ;
+    wdata:Q7200235 "LC11110240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110250000>
@@ -1745,7 +1745,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Riviere"@eng-Latn ;
-    wdata:q7200235 "LC11110250000" ;
+    wdata:Q7200235 "LC11110250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110250100>
@@ -1757,7 +1757,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Riviere/Des Branch"@eng-Latn ;
-    wdata:q7200235 "LC11110250100" ;
+    wdata:Q7200235 "LC11110250100" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110250300>
@@ -1769,7 +1769,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Riviere/En Leur Morne/Discompere"@eng-Latn ;
-    wdata:q7200235 "LC11110250300" ;
+    wdata:Q7200235 "LC11110250300" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110250400>
@@ -1781,7 +1781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Riviere/Funier"@eng-Latn ;
-    wdata:q7200235 "LC11110250400" ;
+    wdata:Q7200235 "LC11110250400" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110250500>
@@ -1793,7 +1793,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Grande Riviere/Morne Caca Cochon"@eng-Latn ;
-    wdata:q7200235 "LC11110250500" ;
+    wdata:Q7200235 "LC11110250500" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110270000>
@@ -1805,7 +1805,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "La Caye"@eng-Latn ;
-    wdata:q7200235 "LC11110270000" ;
+    wdata:Q7200235 "LC11110270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110280000>
@@ -1817,7 +1817,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "La Pelle"@eng-Latn ;
-    wdata:q7200235 "LC11110280000" ;
+    wdata:Q7200235 "LC11110280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110290000>
@@ -1829,7 +1829,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "La Ressource"@eng-Latn ;
-    wdata:q7200235 "LC11110290000" ;
+    wdata:Q7200235 "LC11110290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110300000>
@@ -1841,7 +1841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Lumiere"@eng-Latn ;
-    wdata:q7200235 "LC11110300000" ;
+    wdata:Q7200235 "LC11110300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110330000>
@@ -1853,7 +1853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Morne Panache"@eng-Latn ;
-    wdata:q7200235 "LC11110330000" ;
+    wdata:Q7200235 "LC11110330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110360000>
@@ -1865,7 +1865,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Pascal"@eng-Latn ;
-    wdata:q7200235 "LC11110360000" ;
+    wdata:Q7200235 "LC11110360000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110370000>
@@ -1877,7 +1877,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Riche Fond"@eng-Latn ;
-    wdata:q7200235 "LC11110370000" ;
+    wdata:Q7200235 "LC11110370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110370100>
@@ -1889,7 +1889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Riche Fond/La Belle Vie"@eng-Latn ;
-    wdata:q7200235 "LC11110370100" ;
+    wdata:Q7200235 "LC11110370100" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110370200>
@@ -1901,7 +1901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Riche Fond/New Village"@eng-Latn ;
-    wdata:q7200235 "LC11110370200" ;
+    wdata:Q7200235 "LC11110370200" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110380000>
@@ -1913,7 +1913,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "St. Joseph Estate"@eng-Latn ;
-    wdata:q7200235 "LC11110380000" ;
+    wdata:Q7200235 "LC11110380000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110390000>
@@ -1925,7 +1925,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Thamazo"@eng-Latn ;
-    wdata:q7200235 "LC11110390000" ;
+    wdata:Q7200235 "LC11110390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110390100>
@@ -1937,7 +1937,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Thomazo/Tournesse"@eng-Latn ;
-    wdata:q7200235 "LC11110390100" ;
+    wdata:Q7200235 "LC11110390100" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110400000>
@@ -1949,7 +1949,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Dennery Village"@eng-Latn ;
-    wdata:q7200235 "LC11110400000" ;
+    wdata:Q7200235 "LC11110400000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110401800>
@@ -1961,7 +1961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "La Pointe"@eng-Latn ;
-    wdata:q7200235 "LC11110401800" ;
+    wdata:Q7200235 "LC11110401800" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110410000>
@@ -1973,7 +1973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Louvet"@eng-Latn ;
-    wdata:q7200235 "LC11110410000" ;
+    wdata:Q7200235 "LC11110410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110420000>
@@ -1985,7 +1985,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "La Sorciere"@eng-Latn ;
-    wdata:q7200235 "LC11110420000" ;
+    wdata:Q7200235 "LC11110420000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110430000>
@@ -1997,7 +1997,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Bordelais"@eng-Latn ;
-    wdata:q7200235 "LC11110430000" ;
+    wdata:Q7200235 "LC11110430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110440000>
@@ -2009,7 +2009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Mandele"@eng-Latn ;
-    wdata:q7200235 "LC11110440000" ;
+    wdata:Q7200235 "LC11110440000" ;
 .
 
 <urn:mdciii:1603:16:662:2:11110450000>
@@ -2021,7 +2021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:11> ;
     skos:prefLabel "Central Forest Reserve"@eng-Latn ;
-    wdata:q7200235 "LC11110450000" ;
+    wdata:Q7200235 "LC11110450000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120010000>
@@ -2033,7 +2033,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Americ"@eng-Latn ;
-    wdata:q7200235 "LC12120010000" ;
+    wdata:Q7200235 "LC12120010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120020100>
@@ -2045,7 +2045,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Paix Bouche"@eng-Latn ;
-    wdata:q7200235 "LC12120020100" ;
+    wdata:Q7200235 "LC12120020100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120040000>
@@ -2057,7 +2057,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Beausejour"@eng-Latn ;
-    wdata:q7200235 "LC12120040000" ;
+    wdata:Q7200235 "LC12120040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120040100>
@@ -2069,7 +2069,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Beausejour/Fostin'S Development"@eng-Latn ;
-    wdata:q7200235 "LC12120040100" ;
+    wdata:Q7200235 "LC12120040100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120040200>
@@ -2081,7 +2081,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Beausejour/Ndc"@eng-Latn ;
-    wdata:q7200235 "LC12120040200" ;
+    wdata:Q7200235 "LC12120040200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120050000>
@@ -2093,7 +2093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Bella Rosa"@eng-Latn ;
-    wdata:q7200235 "LC12120050000" ;
+    wdata:Q7200235 "LC12120050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120060000>
@@ -2105,7 +2105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Boguis"@eng-Latn ;
-    wdata:q7200235 "LC12120060000" ;
+    wdata:Q7200235 "LC12120060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120060100>
@@ -2117,7 +2117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Boguis/Desa Blond"@eng-Latn ;
-    wdata:q7200235 "LC12120060100" ;
+    wdata:Q7200235 "LC12120060100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120080000>
@@ -2129,7 +2129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Bois D'Orange"@eng-Latn ;
-    wdata:q7200235 "LC12120080000" ;
+    wdata:Q7200235 "LC12120080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120080100>
@@ -2141,7 +2141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Bois D'Orange/Trouya"@eng-Latn ;
-    wdata:q7200235 "LC12120080100" ;
+    wdata:Q7200235 "LC12120080100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120100000>
@@ -2153,7 +2153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Bonneterre"@eng-Latn ;
-    wdata:q7200235 "LC12120100000" ;
+    wdata:Q7200235 "LC12120100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120100100>
@@ -2165,7 +2165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Bonneterre Gardens"@eng-Latn ;
-    wdata:q7200235 "LC12120100100" ;
+    wdata:Q7200235 "LC12120100100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120110000>
@@ -2177,7 +2177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Caille Des"@eng-Latn ;
-    wdata:q7200235 "LC12120110000" ;
+    wdata:Q7200235 "LC12120110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120120000>
@@ -2189,7 +2189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Caye Manje'"@eng-Latn ;
-    wdata:q7200235 "LC12120120000" ;
+    wdata:Q7200235 "LC12120120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130000>
@@ -2201,7 +2201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate"@eng-Latn ;
-    wdata:q7200235 "LC12120130000" ;
+    wdata:Q7200235 "LC12120130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130100>
@@ -2213,7 +2213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Anse Du Cap"@eng-Latn ;
-    wdata:q7200235 "LC12120130100" ;
+    wdata:Q7200235 "LC12120130100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130200>
@@ -2225,7 +2225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Saddle Back"@eng-Latn ;
-    wdata:q7200235 "LC12120130200" ;
+    wdata:Q7200235 "LC12120130200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130300>
@@ -2237,7 +2237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Lower Saline Point"@eng-Latn ;
-    wdata:q7200235 "LC12120130300" ;
+    wdata:Q7200235 "LC12120130300" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130400>
@@ -2249,7 +2249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Upper Saline Point"@eng-Latn ;
-    wdata:q7200235 "LC12120130400" ;
+    wdata:Q7200235 "LC12120130400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130500>
@@ -2261,7 +2261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Mon Du Cap"@eng-Latn ;
-    wdata:q7200235 "LC12120130500" ;
+    wdata:Q7200235 "LC12120130500" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130600>
@@ -2273,7 +2273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Caribbean Park"@eng-Latn ;
-    wdata:q7200235 "LC12120130600" ;
+    wdata:Q7200235 "LC12120130600" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130700>
@@ -2285,7 +2285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Ranch Site"@eng-Latn ;
-    wdata:q7200235 "LC12120130700" ;
+    wdata:Q7200235 "LC12120130700" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120130800>
@@ -2297,7 +2297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Golf Park"@eng-Latn ;
-    wdata:q7200235 "LC12120130800" ;
+    wdata:Q7200235 "LC12120130800" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120131000>
@@ -2309,7 +2309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Becune Park"@eng-Latn ;
-    wdata:q7200235 "LC12120131000" ;
+    wdata:Q7200235 "LC12120131000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120131100>
@@ -2321,7 +2321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cap Estate/Becune Point"@eng-Latn ;
-    wdata:q7200235 "LC12120131100" ;
+    wdata:Q7200235 "LC12120131100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120150000>
@@ -2333,7 +2333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Cas En Bas"@eng-Latn ;
-    wdata:q7200235 "LC12120150000" ;
+    wdata:Q7200235 "LC12120150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120170000>
@@ -2345,7 +2345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Corinth"@eng-Latn ;
-    wdata:q7200235 "LC12120170000" ;
+    wdata:Q7200235 "LC12120170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120170100>
@@ -2357,7 +2357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Corinth Estate"@eng-Latn ;
-    wdata:q7200235 "LC12120170100" ;
+    wdata:Q7200235 "LC12120170100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120170200>
@@ -2369,7 +2369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Corinth/La Bel Lair"@eng-Latn ;
-    wdata:q7200235 "LC12120170200" ;
+    wdata:Q7200235 "LC12120170200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120180000>
@@ -2381,7 +2381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Dauphin"@eng-Latn ;
-    wdata:q7200235 "LC12120180000" ;
+    wdata:Q7200235 "LC12120180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120190000>
@@ -2393,7 +2393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Des Barras"@eng-Latn ;
-    wdata:q7200235 "LC12120190000" ;
+    wdata:Q7200235 "LC12120190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120190100>
@@ -2405,7 +2405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Des Barras/Cacolie"@eng-Latn ;
-    wdata:q7200235 "LC12120190100" ;
+    wdata:Q7200235 "LC12120190100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120200000>
@@ -2417,7 +2417,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Garrand"@eng-Latn ;
-    wdata:q7200235 "LC12120200000" ;
+    wdata:Q7200235 "LC12120200000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230000>
@@ -2429,7 +2429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere"@eng-Latn ;
-    wdata:q7200235 "LC12120230000" ;
+    wdata:Q7200235 "LC12120230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230100>
@@ -2441,7 +2441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Assou Canal"@eng-Latn ;
-    wdata:q7200235 "LC12120230100" ;
+    wdata:Q7200235 "LC12120230100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230200>
@@ -2453,7 +2453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Ingle Woods"@eng-Latn ;
-    wdata:q7200235 "LC12120230200" ;
+    wdata:Q7200235 "LC12120230200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230400>
@@ -2465,7 +2465,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Morne Elwin"@eng-Latn ;
-    wdata:q7200235 "LC12120230400" ;
+    wdata:Q7200235 "LC12120230400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230500>
@@ -2477,7 +2477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Morne Serpent"@eng-Latn ;
-    wdata:q7200235 "LC12120230500" ;
+    wdata:Q7200235 "LC12120230500" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230600>
@@ -2489,7 +2489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Norbert"@eng-Latn ;
-    wdata:q7200235 "LC12120230600" ;
+    wdata:Q7200235 "LC12120230600" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230700>
@@ -2501,7 +2501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Piat"@eng-Latn ;
-    wdata:q7200235 "LC12120230700" ;
+    wdata:Q7200235 "LC12120230700" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230800>
@@ -2513,7 +2513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/White Rock"@eng-Latn ;
-    wdata:q7200235 "LC12120230800" ;
+    wdata:Q7200235 "LC12120230800" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120230900>
@@ -2525,7 +2525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Postlewaithe"@eng-Latn ;
-    wdata:q7200235 "LC12120230900" ;
+    wdata:Q7200235 "LC12120230900" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120231000>
@@ -2537,7 +2537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Grande Riviere/Degazon"@eng-Latn ;
-    wdata:q7200235 "LC12120231000" ;
+    wdata:Q7200235 "LC12120231000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120250000>
@@ -2549,7 +2549,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "La Croix Chaubough"@eng-Latn ;
-    wdata:q7200235 "LC12120250000" ;
+    wdata:Q7200235 "LC12120250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120260000>
@@ -2561,7 +2561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "La Guerre"@eng-Latn ;
-    wdata:q7200235 "LC12120260000" ;
+    wdata:Q7200235 "LC12120260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120260100>
@@ -2573,7 +2573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "La Guerre/Chickenback Street"@eng-Latn ;
-    wdata:q7200235 "LC12120260100" ;
+    wdata:Q7200235 "LC12120260100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120270000>
@@ -2585,7 +2585,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "L'Hermitage"@eng-Latn ;
-    wdata:q7200235 "LC12120270000" ;
+    wdata:Q7200235 "LC12120270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290000>
@@ -2597,7 +2597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule"@eng-Latn ;
-    wdata:q7200235 "LC12120290000" ;
+    wdata:Q7200235 "LC12120290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290100>
@@ -2609,7 +2609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule/Bon Air"@eng-Latn ;
-    wdata:q7200235 "LC12120290100" ;
+    wdata:Q7200235 "LC12120290100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290200>
@@ -2621,7 +2621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule/East Winds"@eng-Latn ;
-    wdata:q7200235 "LC12120290200" ;
+    wdata:Q7200235 "LC12120290200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290400>
@@ -2633,7 +2633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule/La Brellotte"@eng-Latn ;
-    wdata:q7200235 "LC12120290400" ;
+    wdata:Q7200235 "LC12120290400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290500>
@@ -2645,7 +2645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule/Top Of The World"@eng-Latn ;
-    wdata:q7200235 "LC12120290500" ;
+    wdata:Q7200235 "LC12120290500" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120290501>
@@ -2657,7 +2657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marisule/Top Of The World/Belle Ville"@eng-Latn ;
-    wdata:q7200235 "LC12120290501" ;
+    wdata:Q7200235 "LC12120290501" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120300000>
@@ -2669,7 +2669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Marquis Estate"@eng-Latn ;
-    wdata:q7200235 "LC12120300000" ;
+    wdata:Q7200235 "LC12120300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120310000>
@@ -2681,7 +2681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Massade"@eng-Latn ;
-    wdata:q7200235 "LC12120310000" ;
+    wdata:Q7200235 "LC12120310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330000>
@@ -2693,7 +2693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy"@eng-Latn ;
-    wdata:q7200235 "LC12120330000" ;
+    wdata:Q7200235 "LC12120330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330100>
@@ -2705,7 +2705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Careffe"@eng-Latn ;
-    wdata:q7200235 "LC12120330100" ;
+    wdata:Q7200235 "LC12120330100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330200>
@@ -2717,7 +2717,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Cletus Village"@eng-Latn ;
-    wdata:q7200235 "LC12120330200" ;
+    wdata:Q7200235 "LC12120330200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330400>
@@ -2729,7 +2729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/La Borne"@eng-Latn ;
-    wdata:q7200235 "LC12120330400" ;
+    wdata:Q7200235 "LC12120330400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330403>
@@ -2741,7 +2741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/La Borne/Sans Souci"@eng-Latn ;
-    wdata:q7200235 "LC12120330403" ;
+    wdata:Q7200235 "LC12120330403" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330500>
@@ -2753,7 +2753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Lafeuille"@eng-Latn ;
-    wdata:q7200235 "LC12120330500" ;
+    wdata:Q7200235 "LC12120330500" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330600>
@@ -2765,7 +2765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/La Retraite"@eng-Latn ;
-    wdata:q7200235 "LC12120330600" ;
+    wdata:Q7200235 "LC12120330600" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330700>
@@ -2777,7 +2777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Riviere Mitan"@eng-Latn ;
-    wdata:q7200235 "LC12120330700" ;
+    wdata:Q7200235 "LC12120330700" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120330900>
@@ -2789,7 +2789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Moulin A Vent"@eng-Latn ;
-    wdata:q7200235 "LC12120330900" ;
+    wdata:Q7200235 "LC12120330900" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331000>
@@ -2801,7 +2801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Ravine Macock"@eng-Latn ;
-    wdata:q7200235 "LC12120331000" ;
+    wdata:Q7200235 "LC12120331000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331100>
@@ -2813,7 +2813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Ti Dauphin"@eng-Latn ;
-    wdata:q7200235 "LC12120331100" ;
+    wdata:Q7200235 "LC12120331100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331200>
@@ -2825,7 +2825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Vieux Sucreic"@eng-Latn ;
-    wdata:q7200235 "LC12120331200" ;
+    wdata:Q7200235 "LC12120331200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331201>
@@ -2837,7 +2837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Vieux Sucreic/Careffe"@eng-Latn ;
-    wdata:q7200235 "LC12120331201" ;
+    wdata:Q7200235 "LC12120331201" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331202>
@@ -2849,7 +2849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Vieux Sucreic/Bois D'Ine"@eng-Latn ;
-    wdata:q7200235 "LC12120331202" ;
+    wdata:Q7200235 "LC12120331202" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331300>
@@ -2861,7 +2861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Malgretoute"@eng-Latn ;
-    wdata:q7200235 "LC12120331300" ;
+    wdata:Q7200235 "LC12120331300" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331400>
@@ -2873,7 +2873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Cardinal"@eng-Latn ;
-    wdata:q7200235 "LC12120331400" ;
+    wdata:Q7200235 "LC12120331400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331500>
@@ -2885,7 +2885,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Lawi Fwen"@eng-Latn ;
-    wdata:q7200235 "LC12120331500" ;
+    wdata:Q7200235 "LC12120331500" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120331600>
@@ -2897,7 +2897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monchy/Mount Layau"@eng-Latn ;
-    wdata:q7200235 "LC12120331600" ;
+    wdata:Q7200235 "LC12120331600" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120340000>
@@ -2909,7 +2909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Mongiraud"@eng-Latn ;
-    wdata:q7200235 "LC12120340000" ;
+    wdata:Q7200235 "LC12120340000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120350000>
@@ -2921,7 +2921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Monier"@eng-Latn ;
-    wdata:q7200235 "LC12120350000" ;
+    wdata:Q7200235 "LC12120350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120390000>
@@ -2933,7 +2933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Pigeon Island"@eng-Latn ;
-    wdata:q7200235 "LC12120390000" ;
+    wdata:Q7200235 "LC12120390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120410000>
@@ -2945,7 +2945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Plateau"@eng-Latn ;
-    wdata:q7200235 "LC12120410000" ;
+    wdata:Q7200235 "LC12120410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120440000>
@@ -2957,7 +2957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Reduit"@eng-Latn ;
-    wdata:q7200235 "LC12120440000" ;
+    wdata:Q7200235 "LC12120440000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120440100>
@@ -2969,7 +2969,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Reduit Orchard"@eng-Latn ;
-    wdata:q7200235 "LC12120440100" ;
+    wdata:Q7200235 "LC12120440100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120440200>
@@ -2981,7 +2981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Reduit Park"@eng-Latn ;
-    wdata:q7200235 "LC12120440200" ;
+    wdata:Q7200235 "LC12120440200" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120450000>
@@ -2993,7 +2993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Rodney Bay"@eng-Latn ;
-    wdata:q7200235 "LC12120450000" ;
+    wdata:Q7200235 "LC12120450000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120460000>
@@ -3005,7 +3005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Rodney Heights"@eng-Latn ;
-    wdata:q7200235 "LC12120460000" ;
+    wdata:Q7200235 "LC12120460000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120500000>
@@ -3017,7 +3017,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Gros Islet Town"@eng-Latn ;
-    wdata:q7200235 "LC12120500000" ;
+    wdata:Q7200235 "LC12120500000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120501100>
@@ -3029,7 +3029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Gros Islet/Edge Water"@eng-Latn ;
-    wdata:q7200235 "LC12120501100" ;
+    wdata:Q7200235 "LC12120501100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120520000>
@@ -3041,7 +3041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Union"@eng-Latn ;
-    wdata:q7200235 "LC12120520000" ;
+    wdata:Q7200235 "LC12120520000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120520300>
@@ -3053,7 +3053,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Union Terrace"@eng-Latn ;
-    wdata:q7200235 "LC12120520300" ;
+    wdata:Q7200235 "LC12120520300" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120520400>
@@ -3065,7 +3065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Union/Ti Morne"@eng-Latn ;
-    wdata:q7200235 "LC12120520400" ;
+    wdata:Q7200235 "LC12120520400" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120530000>
@@ -3077,7 +3077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Belle Vue"@eng-Latn ;
-    wdata:q7200235 "LC12120530000" ;
+    wdata:Q7200235 "LC12120530000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120530100>
@@ -3089,7 +3089,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Belle Vue Estate"@eng-Latn ;
-    wdata:q7200235 "LC12120530100" ;
+    wdata:Q7200235 "LC12120530100" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120540000>
@@ -3101,7 +3101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Desrameaux"@eng-Latn ;
-    wdata:q7200235 "LC12120540000" ;
+    wdata:Q7200235 "LC12120540000" ;
 .
 
 <urn:mdciii:1603:16:662:2:12120550000>
@@ -3113,7 +3113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:12> ;
     skos:prefLabel "Morne Citon"@eng-Latn ;
-    wdata:q7200235 "LC12120550000" ;
+    wdata:Q7200235 "LC12120550000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010060000>
@@ -3125,7 +3125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Banannes Bay"@eng-Latn ;
-    wdata:q7200235 "LC13010060000" ;
+    wdata:Q7200235 "LC13010060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010070000>
@@ -3137,7 +3137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Barnard Hill"@eng-Latn ;
-    wdata:q7200235 "LC13010070000" ;
+    wdata:Q7200235 "LC13010070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010090000>
@@ -3149,7 +3149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bella Rosa"@eng-Latn ;
-    wdata:q7200235 "LC13010090000" ;
+    wdata:Q7200235 "LC13010090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010160000>
@@ -3161,7 +3161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bois Catchet"@eng-Latn ;
-    wdata:q7200235 "LC13010160000" ;
+    wdata:Q7200235 "LC13010160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010170000>
@@ -3173,7 +3173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Calvary"@eng-Latn ;
-    wdata:q7200235 "LC13010170000" ;
+    wdata:Q7200235 "LC13010170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010190000>
@@ -3185,7 +3185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Cedars"@eng-Latn ;
-    wdata:q7200235 "LC13010190000" ;
+    wdata:Q7200235 "LC13010190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010200100>
@@ -3197,7 +3197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Sunbilt"@eng-Latn ;
-    wdata:q7200235 "LC13010200100" ;
+    wdata:Q7200235 "LC13010200100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010240000>
@@ -3209,7 +3209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "City"@eng-Latn ;
-    wdata:q7200235 "LC13010240000" ;
+    wdata:Q7200235 "LC13010240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010243800>
@@ -3221,7 +3221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Grass Street"@eng-Latn ;
-    wdata:q7200235 "LC13010243800" ;
+    wdata:Q7200235 "LC13010243800" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010244800>
@@ -3233,7 +3233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Pearts Gap"@eng-Latn ;
-    wdata:q7200235 "LC13010244800" ;
+    wdata:Q7200235 "LC13010244800" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010245500>
@@ -3245,7 +3245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Conway"@eng-Latn ;
-    wdata:q7200235 "LC13010245500" ;
+    wdata:Q7200235 "LC13010245500" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010250000>
@@ -3257,7 +3257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "City Gate"@eng-Latn ;
-    wdata:q7200235 "LC13010250000" ;
+    wdata:Q7200235 "LC13010250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010270000>
@@ -3269,7 +3269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Coolie Town"@eng-Latn ;
-    wdata:q7200235 "LC13010270000" ;
+    wdata:Q7200235 "LC13010270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010310000>
@@ -3281,7 +3281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Darling Road"@eng-Latn ;
-    wdata:q7200235 "LC13010310000" ;
+    wdata:Q7200235 "LC13010310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010380000>
@@ -3293,7 +3293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Faux A Chaud"@eng-Latn ;
-    wdata:q7200235 "LC13010380000" ;
+    wdata:Q7200235 "LC13010380000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010400000>
@@ -3305,7 +3305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Fond Manger"@eng-Latn ;
-    wdata:q7200235 "LC13010400000" ;
+    wdata:Q7200235 "LC13010400000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010470000>
@@ -3317,7 +3317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Hospital Road"@eng-Latn ;
-    wdata:q7200235 "LC13010470000" ;
+    wdata:Q7200235 "LC13010470000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010480000>
@@ -3329,7 +3329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "John Compton Highway"@eng-Latn ;
-    wdata:q7200235 "LC13010480000" ;
+    wdata:Q7200235 "LC13010480000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010570000>
@@ -3341,7 +3341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "La Toc"@eng-Latn ;
-    wdata:q7200235 "LC13010570000" ;
+    wdata:Q7200235 "LC13010570000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010580000>
@@ -3353,7 +3353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Lastic Hill"@eng-Latn ;
-    wdata:q7200235 "LC13010580000" ;
+    wdata:Q7200235 "LC13010580000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010670000>
@@ -3365,7 +3365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "New Village"@eng-Latn ;
-    wdata:q7200235 "LC13010670000" ;
+    wdata:Q7200235 "LC13010670000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010690000>
@@ -3377,7 +3377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Patterson'S Gap"@eng-Latn ;
-    wdata:q7200235 "LC13010690000" ;
+    wdata:Q7200235 "LC13010690000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010700000>
@@ -3389,7 +3389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Pavee"@eng-Latn ;
-    wdata:q7200235 "LC13010700000" ;
+    wdata:Q7200235 "LC13010700000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010720000>
@@ -3401,7 +3401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Pointe Seraphine"@eng-Latn ;
-    wdata:q7200235 "LC13010720000" ;
+    wdata:Q7200235 "LC13010720000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010760000>
@@ -3413,7 +3413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Rose Hill"@eng-Latn ;
-    wdata:q7200235 "LC13010760000" ;
+    wdata:Q7200235 "LC13010760000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010920000>
@@ -3425,7 +3425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Waterworks"@eng-Latn ;
-    wdata:q7200235 "LC13010920000" ;
+    wdata:Q7200235 "LC13010920000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010930000>
@@ -3437,7 +3437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Wilton'S Yard/Grave Yard"@eng-Latn ;
-    wdata:q7200235 "LC13010930000" ;
+    wdata:Q7200235 "LC13010930000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13010940000>
@@ -3449,7 +3449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Forest Reserve"@eng-Latn ;
-    wdata:q7200235 "LC13010940000" ;
+    wdata:Q7200235 "LC13010940000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020010000>
@@ -3461,7 +3461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Almondale"@eng-Latn ;
-    wdata:q7200235 "LC13020010000" ;
+    wdata:Q7200235 "LC13020010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020020000>
@@ -3473,7 +3473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Aurendel Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020020000" ;
+    wdata:Q7200235 "LC13020020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020040000>
@@ -3485,7 +3485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bagatelle"@eng-Latn ;
-    wdata:q7200235 "LC13020040000" ;
+    wdata:Q7200235 "LC13020040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020120000>
@@ -3497,7 +3497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bissee"@eng-Latn ;
-    wdata:q7200235 "LC13020120000" ;
+    wdata:Q7200235 "LC13020120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020130000>
@@ -3509,7 +3509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bishop'S Gap/Ghirawoo Road"@eng-Latn ;
-    wdata:q7200235 "LC13020130000" ;
+    wdata:Q7200235 "LC13020130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020150000>
@@ -3521,7 +3521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bocage"@eng-Latn ;
-    wdata:q7200235 "LC13020150000" ;
+    wdata:Q7200235 "LC13020150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020180100>
@@ -3533,7 +3533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Carellie"@eng-Latn ;
-    wdata:q7200235 "LC13020180100" ;
+    wdata:Q7200235 "LC13020180100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020210000>
@@ -3545,7 +3545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ravine Chabot"@eng-Latn ;
-    wdata:q7200235 "LC13020210000" ;
+    wdata:Q7200235 "LC13020210000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020220000>
@@ -3557,7 +3557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Choc"@eng-Latn ;
-    wdata:q7200235 "LC13020220000" ;
+    wdata:Q7200235 "LC13020220000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020230000>
@@ -3569,7 +3569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ciceron"@eng-Latn ;
-    wdata:q7200235 "LC13020230000" ;
+    wdata:Q7200235 "LC13020230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020231400>
@@ -3581,7 +3581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Monkey Town/Ciceron"@eng-Latn ;
-    wdata:q7200235 "LC13020231400" ;
+    wdata:Q7200235 "LC13020231400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020280000>
@@ -3593,7 +3593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Coubaril"@eng-Latn ;
-    wdata:q7200235 "LC13020280000" ;
+    wdata:Q7200235 "LC13020280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020370000>
@@ -3605,7 +3605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Entrepot"@eng-Latn ;
-    wdata:q7200235 "LC13020370000" ;
+    wdata:Q7200235 "LC13020370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020370400>
@@ -3617,7 +3617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Independence City"@eng-Latn ;
-    wdata:q7200235 "LC13020370400" ;
+    wdata:Q7200235 "LC13020370400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020500000>
@@ -3629,7 +3629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "La Clery"@eng-Latn ;
-    wdata:q7200235 "LC13020500000" ;
+    wdata:Q7200235 "LC13020500000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020500100>
@@ -3641,7 +3641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Active Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020500100" ;
+    wdata:Q7200235 "LC13020500100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020500300>
@@ -3653,7 +3653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Chase Gardens"@eng-Latn ;
-    wdata:q7200235 "LC13020500300" ;
+    wdata:Q7200235 "LC13020500300" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020501400>
@@ -3665,7 +3665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Yorke Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020501400" ;
+    wdata:Q7200235 "LC13020501400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020550000>
@@ -3677,7 +3677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "La Pansee"@eng-Latn ;
-    wdata:q7200235 "LC13020550000" ;
+    wdata:Q7200235 "LC13020550000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020550100>
@@ -3689,7 +3689,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Georgeville"@eng-Latn ;
-    wdata:q7200235 "LC13020550100" ;
+    wdata:Q7200235 "LC13020550100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020590000>
@@ -3701,7 +3701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Leslie Land"@eng-Latn ;
-    wdata:q7200235 "LC13020590000" ;
+    wdata:Q7200235 "LC13020590000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020600000>
@@ -3713,7 +3713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Marchand"@eng-Latn ;
-    wdata:q7200235 "LC13020600000" ;
+    wdata:Q7200235 "LC13020600000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020600100>
@@ -3725,7 +3725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Black Mallet"@eng-Latn ;
-    wdata:q7200235 "LC13020600100" ;
+    wdata:Q7200235 "LC13020600100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020600200>
@@ -3737,7 +3737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "George Charles Boulevard"@eng-Latn ;
-    wdata:q7200235 "LC13020600200" ;
+    wdata:Q7200235 "LC13020600200" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020600400>
@@ -3749,7 +3749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Maynard Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020600400" ;
+    wdata:Q7200235 "LC13020600400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020600700>
@@ -3761,7 +3761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Trou Rouge"@eng-Latn ;
-    wdata:q7200235 "LC13020600700" ;
+    wdata:Q7200235 "LC13020600700" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020630000>
@@ -3773,7 +3773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Morne Dudon"@eng-Latn ;
-    wdata:q7200235 "LC13020630000" ;
+    wdata:Q7200235 "LC13020630000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020630100>
@@ -3785,7 +3785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Agard Lands"@eng-Latn ;
-    wdata:q7200235 "LC13020630100" ;
+    wdata:Q7200235 "LC13020630100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020630300>
@@ -3797,7 +3797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bois Patat"@eng-Latn ;
-    wdata:q7200235 "LC13020630300" ;
+    wdata:Q7200235 "LC13020630300" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020630400>
@@ -3809,7 +3809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Hillcrest Gardens"@eng-Latn ;
-    wdata:q7200235 "LC13020630400" ;
+    wdata:Q7200235 "LC13020630400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020640000>
@@ -3821,7 +3821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Morne Road"@eng-Latn ;
-    wdata:q7200235 "LC13020640000" ;
+    wdata:Q7200235 "LC13020640000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020650000>
@@ -3833,7 +3833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Mount Pleasant"@eng-Latn ;
-    wdata:q7200235 "LC13020650000" ;
+    wdata:Q7200235 "LC13020650000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020680000>
@@ -3845,7 +3845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Parker'S Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020680000" ;
+    wdata:Q7200235 "LC13020680000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020750000>
@@ -3857,7 +3857,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Rock Hall"@eng-Latn ;
-    wdata:q7200235 "LC13020750000" ;
+    wdata:Q7200235 "LC13020750000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020750100>
@@ -3869,7 +3869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ravine Touterelle"@eng-Latn ;
-    wdata:q7200235 "LC13020750100" ;
+    wdata:Q7200235 "LC13020750100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020780000>
@@ -3881,7 +3881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "San Souci"@eng-Latn ;
-    wdata:q7200235 "LC13020780000" ;
+    wdata:Q7200235 "LC13020780000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020781100>
@@ -3893,7 +3893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Lanse Road"@eng-Latn ;
-    wdata:q7200235 "LC13020781100" ;
+    wdata:Q7200235 "LC13020781100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020790000>
@@ -3905,7 +3905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Summersdale"@eng-Latn ;
-    wdata:q7200235 "LC13020790000" ;
+    wdata:Q7200235 "LC13020790000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020800000>
@@ -3917,7 +3917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Sunny Acres"@eng-Latn ;
-    wdata:q7200235 "LC13020800000" ;
+    wdata:Q7200235 "LC13020800000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020810000>
@@ -3929,7 +3929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Tapion"@eng-Latn ;
-    wdata:q7200235 "LC13020810000" ;
+    wdata:Q7200235 "LC13020810000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020820000>
@@ -3941,7 +3941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "The Morne"@eng-Latn ;
-    wdata:q7200235 "LC13020820000" ;
+    wdata:Q7200235 "LC13020820000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020820100>
@@ -3953,7 +3953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Capital Hill"@eng-Latn ;
-    wdata:q7200235 "LC13020820100" ;
+    wdata:Q7200235 "LC13020820100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020890000>
@@ -3965,7 +3965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Vide Bouteille"@eng-Latn ;
-    wdata:q7200235 "LC13020890000" ;
+    wdata:Q7200235 "LC13020890000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13020910000>
@@ -3977,7 +3977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Vigie"@eng-Latn ;
-    wdata:q7200235 "LC13020910000" ;
+    wdata:Q7200235 "LC13020910000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030000>
@@ -3989,7 +3989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Babonneau Proper"@eng-Latn ;
-    wdata:q7200235 "LC13030030000" ;
+    wdata:Q7200235 "LC13030030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030100>
@@ -4001,7 +4001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Cabiche/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030100" ;
+    wdata:Q7200235 "LC13030030100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030200>
@@ -4013,7 +4013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Cacoa/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030200" ;
+    wdata:Q7200235 "LC13030030200" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030201>
@@ -4025,7 +4025,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Girard/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030201" ;
+    wdata:Q7200235 "LC13030030201" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030202>
@@ -4037,7 +4037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Green Gold/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030202" ;
+    wdata:Q7200235 "LC13030030202" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030203>
@@ -4049,7 +4049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Hill 20/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030203" ;
+    wdata:Q7200235 "LC13030030203" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030400>
@@ -4061,7 +4061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Chassin/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030400" ;
+    wdata:Q7200235 "LC13030030400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030500>
@@ -4073,7 +4073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Fond Assau/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030500" ;
+    wdata:Q7200235 "LC13030030500" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030030501>
@@ -4085,7 +4085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Morne Assau/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030030501" ;
+    wdata:Q7200235 "LC13030030501" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030031100>
@@ -4097,7 +4097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Talvern/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030031100" ;
+    wdata:Q7200235 "LC13030031100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030031101>
@@ -4109,7 +4109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "En Pois Doux/Babonneau"@eng-Latn ;
-    wdata:q7200235 "LC13030031101" ;
+    wdata:Q7200235 "LC13030031101" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030050000>
@@ -4121,7 +4121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Balata"@eng-Latn ;
-    wdata:q7200235 "LC13030050000" ;
+    wdata:Q7200235 "LC13030050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110000>
@@ -4133,7 +4133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Bexon"@eng-Latn ;
-    wdata:q7200235 "LC13030110000" ;
+    wdata:Q7200235 "LC13030110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110100>
@@ -4145,7 +4145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Barre Denis"@eng-Latn ;
-    wdata:q7200235 "LC13030110100" ;
+    wdata:Q7200235 "LC13030110100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110200>
@@ -4157,7 +4157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Choppin"@eng-Latn ;
-    wdata:q7200235 "LC13030110200" ;
+    wdata:Q7200235 "LC13030110200" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110400>
@@ -4169,7 +4169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Labayee"@eng-Latn ;
-    wdata:q7200235 "LC13030110400" ;
+    wdata:Q7200235 "LC13030110400" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110500>
@@ -4181,7 +4181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110500" ;
+    wdata:Q7200235 "LC13030110500" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110501>
@@ -4193,7 +4193,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Crownlands/Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110501" ;
+    wdata:Q7200235 "LC13030110501" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110502>
@@ -4205,7 +4205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Floissac/Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110502" ;
+    wdata:Q7200235 "LC13030110502" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110504>
@@ -4217,7 +4217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Morne Rouge/Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110504" ;
+    wdata:Q7200235 "LC13030110504" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110505>
@@ -4229,7 +4229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Trou Cochon/Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110505" ;
+    wdata:Q7200235 "LC13030110505" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110506>
@@ -4241,7 +4241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Trou Florent/Marc"@eng-Latn ;
-    wdata:q7200235 "LC13030110506" ;
+    wdata:Q7200235 "LC13030110506" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110600>
@@ -4253,7 +4253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Miami/Bexon"@eng-Latn ;
-    wdata:q7200235 "LC13030110600" ;
+    wdata:Q7200235 "LC13030110600" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110700>
@@ -4265,7 +4265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Odsan"@eng-Latn ;
-    wdata:q7200235 "LC13030110700" ;
+    wdata:Q7200235 "LC13030110700" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110800>
@@ -4277,7 +4277,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ravine Poisson"@eng-Latn ;
-    wdata:q7200235 "LC13030110800" ;
+    wdata:Q7200235 "LC13030110800" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110900>
@@ -4289,7 +4289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Sarot"@eng-Latn ;
-    wdata:q7200235 "LC13030110900" ;
+    wdata:Q7200235 "LC13030110900" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030110901>
@@ -4301,7 +4301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Sand De Feu"@eng-Latn ;
-    wdata:q7200235 "LC13030110901" ;
+    wdata:Q7200235 "LC13030110901" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030300000>
@@ -4313,7 +4313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Cul De Sac"@eng-Latn ;
-    wdata:q7200235 "LC13030300000" ;
+    wdata:Q7200235 "LC13030300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030300100>
@@ -4325,7 +4325,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ferrand"@eng-Latn ;
-    wdata:q7200235 "LC13030300100" ;
+    wdata:Q7200235 "LC13030300100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030300300>
@@ -4337,7 +4337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Soucis"@eng-Latn ;
-    wdata:q7200235 "LC13030300300" ;
+    wdata:Q7200235 "LC13030300300" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030320000>
@@ -4349,7 +4349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Deglos"@eng-Latn ;
-    wdata:q7200235 "LC13030320000" ;
+    wdata:Q7200235 "LC13030320000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030330000>
@@ -4361,7 +4361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Derierre Fort/Old Victoria Road"@eng-Latn ;
-    wdata:q7200235 "LC13030330000" ;
+    wdata:Q7200235 "LC13030330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030340000>
@@ -4373,7 +4373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Dubrassay"@eng-Latn ;
-    wdata:q7200235 "LC13030340000" ;
+    wdata:Q7200235 "LC13030340000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030390000>
@@ -4385,7 +4385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Fond Canie"@eng-Latn ;
-    wdata:q7200235 "LC13030390000" ;
+    wdata:Q7200235 "LC13030390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030410000>
@@ -4397,7 +4397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Forestiere"@eng-Latn ;
-    wdata:q7200235 "LC13030410000" ;
+    wdata:Q7200235 "LC13030410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030410200>
@@ -4409,7 +4409,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Piton Flore"@eng-Latn ;
-    wdata:q7200235 "LC13030410200" ;
+    wdata:Q7200235 "LC13030410200" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030430000>
@@ -4421,7 +4421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Goodlands"@eng-Latn ;
-    wdata:q7200235 "LC13030430000" ;
+    wdata:Q7200235 "LC13030430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030460000>
@@ -4433,7 +4433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Guesneau"@eng-Latn ;
-    wdata:q7200235 "LC13030460000" ;
+    wdata:Q7200235 "LC13030460000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030490000>
@@ -4445,7 +4445,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "La Carierre"@eng-Latn ;
-    wdata:q7200235 "LC13030490000" ;
+    wdata:Q7200235 "LC13030490000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030530000>
@@ -4457,7 +4457,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "La Croix Maingot"@eng-Latn ;
-    wdata:q7200235 "LC13030530000" ;
+    wdata:Q7200235 "LC13030530000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030530100>
@@ -4469,7 +4469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Barre Duchaussee"@eng-Latn ;
-    wdata:q7200235 "LC13030530100" ;
+    wdata:Q7200235 "LC13030530100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030530200>
@@ -4481,7 +4481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Barre St Joseph"@eng-Latn ;
-    wdata:q7200235 "LC13030530200" ;
+    wdata:Q7200235 "LC13030530200" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030530300>
@@ -4493,7 +4493,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Perou"@eng-Latn ;
-    wdata:q7200235 "LC13030530300" ;
+    wdata:Q7200235 "LC13030530300" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030610000>
@@ -4505,7 +4505,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Marigot"@eng-Latn ;
-    wdata:q7200235 "LC13030610000" ;
+    wdata:Q7200235 "LC13030610000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030730000>
@@ -4517,7 +4517,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Quatre Chemins"@eng-Latn ;
-    wdata:q7200235 "LC13030730000" ;
+    wdata:Q7200235 "LC13030730000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030740000>
@@ -4529,7 +4529,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Resinard"@eng-Latn ;
-    wdata:q7200235 "LC13030740000" ;
+    wdata:Q7200235 "LC13030740000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030770100>
@@ -4541,7 +4541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Belair"@eng-Latn ;
-    wdata:q7200235 "LC13030770100" ;
+    wdata:Q7200235 "LC13030770100" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030830000>
@@ -4553,7 +4553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ti Colon"@eng-Latn ;
-    wdata:q7200235 "LC13030830000" ;
+    wdata:Q7200235 "LC13030830000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030840000>
@@ -4565,7 +4565,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Ti Rocher"@eng-Latn ;
-    wdata:q7200235 "LC13030840000" ;
+    wdata:Q7200235 "LC13030840000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030850000>
@@ -4577,7 +4577,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Tourat/Soucis"@eng-Latn ;
-    wdata:q7200235 "LC13030850000" ;
+    wdata:Q7200235 "LC13030850000" ;
 .
 
 <urn:mdciii:1603:16:662:2:13030870000>
@@ -4589,7 +4589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:13> ;
     skos:prefLabel "Trois Piton"@eng-Latn ;
-    wdata:q7200235 "LC13030870000" ;
+    wdata:Q7200235 "LC13030870000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040020100>
@@ -4601,7 +4601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Au Tabor Hill"@eng-Latn ;
-    wdata:q7200235 "LC04040020100" ;
+    wdata:Q7200235 "LC04040020100" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040050000>
@@ -4613,7 +4613,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Bois D'Inde"@eng-Latn ;
-    wdata:q7200235 "LC04040050000" ;
+    wdata:Q7200235 "LC04040050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040060000>
@@ -4625,7 +4625,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Champen Estate"@eng-Latn ;
-    wdata:q7200235 "LC04040060000" ;
+    wdata:Q7200235 "LC04040060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040070000>
@@ -4637,7 +4637,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Dame De Traversay"@eng-Latn ;
-    wdata:q7200235 "LC04040070000" ;
+    wdata:Q7200235 "LC04040070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040080000>
@@ -4649,7 +4649,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Derriere Dos"@eng-Latn ;
-    wdata:q7200235 "LC04040080000" ;
+    wdata:Q7200235 "LC04040080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040090000>
@@ -4661,7 +4661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Derriere Lagoon"@eng-Latn ;
-    wdata:q7200235 "LC04040090000" ;
+    wdata:Q7200235 "LC04040090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040100000>
@@ -4673,7 +4673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Durandeau"@eng-Latn ;
-    wdata:q7200235 "LC04040100000" ;
+    wdata:Q7200235 "LC04040100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040110000>
@@ -4685,7 +4685,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Fond Eau Rouge"@eng-Latn ;
-    wdata:q7200235 "LC04040110000" ;
+    wdata:Q7200235 "LC04040110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040120000>
@@ -4697,7 +4697,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Invorgoil Estate"@eng-Latn ;
-    wdata:q7200235 "LC04040120000" ;
+    wdata:Q7200235 "LC04040120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040130000>
@@ -4709,7 +4709,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Jacmel"@eng-Latn ;
-    wdata:q7200235 "LC04040130000" ;
+    wdata:Q7200235 "LC04040130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040140000>
@@ -4721,7 +4721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Jean Baptiste"@eng-Latn ;
-    wdata:q7200235 "LC04040140000" ;
+    wdata:Q7200235 "LC04040140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040150000>
@@ -4733,7 +4733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "La Treille"@eng-Latn ;
-    wdata:q7200235 "LC04040150000" ;
+    wdata:Q7200235 "LC04040150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040170000>
@@ -4745,7 +4745,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Massacre"@eng-Latn ;
-    wdata:q7200235 "LC04040170000" ;
+    wdata:Q7200235 "LC04040170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040180000>
@@ -4757,7 +4757,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Millet"@eng-Latn ;
-    wdata:q7200235 "LC04040180000" ;
+    wdata:Q7200235 "LC04040180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040180100>
@@ -4769,7 +4769,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Caico/Millet"@eng-Latn ;
-    wdata:q7200235 "LC04040180100" ;
+    wdata:Q7200235 "LC04040180100" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040180101>
@@ -4781,7 +4781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Enbar Pwin/Millet"@eng-Latn ;
-    wdata:q7200235 "LC04040180101" ;
+    wdata:Q7200235 "LC04040180101" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040180300>
@@ -4793,7 +4793,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Tete Chemin/Millet"@eng-Latn ;
-    wdata:q7200235 "LC04040180300" ;
+    wdata:Q7200235 "LC04040180300" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040200000>
@@ -4805,7 +4805,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Morne Ciseaux"@eng-Latn ;
-    wdata:q7200235 "LC04040200000" ;
+    wdata:Q7200235 "LC04040200000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040210000>
@@ -4817,7 +4817,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Morne D'Or"@eng-Latn ;
-    wdata:q7200235 "LC04040210000" ;
+    wdata:Q7200235 "LC04040210000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040220000>
@@ -4829,7 +4829,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Roseau Valley"@eng-Latn ;
-    wdata:q7200235 "LC04040220000" ;
+    wdata:Q7200235 "LC04040220000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040230000>
@@ -4841,7 +4841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "St Lawrence"@eng-Latn ;
-    wdata:q7200235 "LC04040230000" ;
+    wdata:Q7200235 "LC04040230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040230100>
@@ -4853,7 +4853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "St Lawrence Estate"@eng-Latn ;
-    wdata:q7200235 "LC04040230100" ;
+    wdata:Q7200235 "LC04040230100" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040240000>
@@ -4865,7 +4865,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Vanard"@eng-Latn ;
-    wdata:q7200235 "LC04040240000" ;
+    wdata:Q7200235 "LC04040240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040250000>
@@ -4877,7 +4877,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Venus"@eng-Latn ;
-    wdata:q7200235 "LC04040250000" ;
+    wdata:Q7200235 "LC04040250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040260000>
@@ -4889,7 +4889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Village"@eng-Latn ;
-    wdata:q7200235 "LC04040260000" ;
+    wdata:Q7200235 "LC04040260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:4040260700>
@@ -4901,7 +4901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:4> ;
     skos:prefLabel "Village/Petite Bourgh"@eng-Latn ;
-    wdata:q7200235 "LC04040260700" ;
+    wdata:Q7200235 "LC04040260700" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050010000>
@@ -4913,7 +4913,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Anse Cochon"@eng-Latn ;
-    wdata:q7200235 "LC05050010000" ;
+    wdata:Q7200235 "LC05050010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050020000>
@@ -4925,7 +4925,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Anse Galet"@eng-Latn ;
-    wdata:q7200235 "LC05050020000" ;
+    wdata:Q7200235 "LC05050020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050030000>
@@ -4937,7 +4937,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Anse La Verdue"@eng-Latn ;
-    wdata:q7200235 "LC05050030000" ;
+    wdata:Q7200235 "LC05050030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050040000>
@@ -4949,7 +4949,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Belvedere"@eng-Latn ;
-    wdata:q7200235 "LC05050040000" ;
+    wdata:Q7200235 "LC05050040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050060000>
@@ -4961,7 +4961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Chalon"@eng-Latn ;
-    wdata:q7200235 "LC05050060000" ;
+    wdata:Q7200235 "LC05050060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050070000>
@@ -4973,7 +4973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Chatin"@eng-Latn ;
-    wdata:q7200235 "LC05050070000" ;
+    wdata:Q7200235 "LC05050070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050080000>
@@ -4985,7 +4985,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Des Bottes"@eng-Latn ;
-    wdata:q7200235 "LC05050080000" ;
+    wdata:Q7200235 "LC05050080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050110000>
@@ -4997,7 +4997,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Morne Siquot"@eng-Latn ;
-    wdata:q7200235 "LC05050110000" ;
+    wdata:Q7200235 "LC05050110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050130000>
@@ -5009,7 +5009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Theodorine"@eng-Latn ;
-    wdata:q7200235 "LC05050130000" ;
+    wdata:Q7200235 "LC05050130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050140000>
@@ -5021,7 +5021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Village"@eng-Latn ;
-    wdata:q7200235 "LC05050140000" ;
+    wdata:Q7200235 "LC05050140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:5050141100>
@@ -5033,7 +5033,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:5> ;
     skos:prefLabel "Riverside Road"@eng-Latn ;
-    wdata:q7200235 "LC05050141100" ;
+    wdata:Q7200235 "LC05050141100" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060010000>
@@ -5045,7 +5045,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Anse Chastanet"@eng-Latn ;
-    wdata:q7200235 "LC06060010000" ;
+    wdata:Q7200235 "LC06060010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060020000>
@@ -5057,7 +5057,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Beausejour/Myers Bridge"@eng-Latn ;
-    wdata:q7200235 "LC06060020000" ;
+    wdata:Q7200235 "LC06060020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060030000>
@@ -5069,7 +5069,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Belfond"@eng-Latn ;
-    wdata:q7200235 "LC06060030000" ;
+    wdata:Q7200235 "LC06060030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060040000>
@@ -5081,7 +5081,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Belle Plain"@eng-Latn ;
-    wdata:q7200235 "LC06060040000" ;
+    wdata:Q7200235 "LC06060040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060050000>
@@ -5093,7 +5093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Belvedere"@eng-Latn ;
-    wdata:q7200235 "LC06060050000" ;
+    wdata:Q7200235 "LC06060050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060060000>
@@ -5105,7 +5105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Bois D'Inde"@eng-Latn ;
-    wdata:q7200235 "LC06060060000" ;
+    wdata:Q7200235 "LC06060060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060070000>
@@ -5117,7 +5117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Bouton"@eng-Latn ;
-    wdata:q7200235 "LC06060070000" ;
+    wdata:Q7200235 "LC06060070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060090000>
@@ -5129,7 +5129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Calvary/Calvaire"@eng-Latn ;
-    wdata:q7200235 "LC06060090000" ;
+    wdata:Q7200235 "LC06060090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060100000>
@@ -5141,7 +5141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Chateau Belair"@eng-Latn ;
-    wdata:q7200235 "LC06060100000" ;
+    wdata:Q7200235 "LC06060100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060110000>
@@ -5153,7 +5153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Colombette"@eng-Latn ;
-    wdata:q7200235 "LC06060110000" ;
+    wdata:Q7200235 "LC06060110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060120000>
@@ -5165,7 +5165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Cresslands"@eng-Latn ;
-    wdata:q7200235 "LC06060120000" ;
+    wdata:Q7200235 "LC06060120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060130000>
@@ -5177,7 +5177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Morne Lastic"@eng-Latn ;
-    wdata:q7200235 "LC06060130000" ;
+    wdata:Q7200235 "LC06060130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060140000>
@@ -5189,7 +5189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Deville"@eng-Latn ;
-    wdata:q7200235 "LC06060140000" ;
+    wdata:Q7200235 "LC06060140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060150000>
@@ -5201,7 +5201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Diamond/Diamond Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060150000" ;
+    wdata:Q7200235 "LC06060150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060160000>
@@ -5213,7 +5213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Esperance"@eng-Latn ;
-    wdata:q7200235 "LC06060160000" ;
+    wdata:Q7200235 "LC06060160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060170000>
@@ -5225,7 +5225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Etangs"@eng-Latn ;
-    wdata:q7200235 "LC06060170000" ;
+    wdata:Q7200235 "LC06060170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060170100>
@@ -5237,7 +5237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "La Dauphine Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060170100" ;
+    wdata:Q7200235 "LC06060170100" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060180000>
@@ -5249,7 +5249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Fond Bernier"@eng-Latn ;
-    wdata:q7200235 "LC06060180000" ;
+    wdata:Q7200235 "LC06060180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060190000>
@@ -5261,7 +5261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Fond Cacoa"@eng-Latn ;
-    wdata:q7200235 "LC06060190000" ;
+    wdata:Q7200235 "LC06060190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060200000>
@@ -5273,7 +5273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Fond Doux"@eng-Latn ;
-    wdata:q7200235 "LC06060200000" ;
+    wdata:Q7200235 "LC06060200000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060230000>
@@ -5285,7 +5285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Jalousie"@eng-Latn ;
-    wdata:q7200235 "LC06060230000" ;
+    wdata:Q7200235 "LC06060230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060240000>
@@ -5297,7 +5297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "La Pearle"@eng-Latn ;
-    wdata:q7200235 "LC06060240000" ;
+    wdata:Q7200235 "LC06060240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060260000>
@@ -5309,7 +5309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Malgretoute"@eng-Latn ;
-    wdata:q7200235 "LC06060260000" ;
+    wdata:Q7200235 "LC06060260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060260100>
@@ -5321,7 +5321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Plat Pays"@eng-Latn ;
-    wdata:q7200235 "LC06060260100" ;
+    wdata:Q7200235 "LC06060260100" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060270000>
@@ -5333,7 +5333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Migny"@eng-Latn ;
-    wdata:q7200235 "LC06060270000" ;
+    wdata:Q7200235 "LC06060270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060280000>
@@ -5345,7 +5345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Mocha"@eng-Latn ;
-    wdata:q7200235 "LC06060280000" ;
+    wdata:Q7200235 "LC06060280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060290000>
@@ -5357,7 +5357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Morne Bonin"@eng-Latn ;
-    wdata:q7200235 "LC06060290000" ;
+    wdata:Q7200235 "LC06060290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060310000>
@@ -5369,7 +5369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Coubaril Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060310000" ;
+    wdata:Q7200235 "LC06060310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060320000>
@@ -5381,7 +5381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Morne La Croix"@eng-Latn ;
-    wdata:q7200235 "LC06060320000" ;
+    wdata:Q7200235 "LC06060320000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060340000>
@@ -5393,7 +5393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "New Development"@eng-Latn ;
-    wdata:q7200235 "LC06060340000" ;
+    wdata:Q7200235 "LC06060340000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060350000>
@@ -5405,7 +5405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Palmiste"@eng-Latn ;
-    wdata:q7200235 "LC06060350000" ;
+    wdata:Q7200235 "LC06060350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060370000>
@@ -5417,7 +5417,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Rabot"@eng-Latn ;
-    wdata:q7200235 "LC06060370000" ;
+    wdata:Q7200235 "LC06060370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060390000>
@@ -5429,7 +5429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Ravine Claire"@eng-Latn ;
-    wdata:q7200235 "LC06060390000" ;
+    wdata:Q7200235 "LC06060390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060420000>
@@ -5441,7 +5441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Ruby Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060420000" ;
+    wdata:Q7200235 "LC06060420000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060430000>
@@ -5453,7 +5453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Sapphire"@eng-Latn ;
-    wdata:q7200235 "LC06060430000" ;
+    wdata:Q7200235 "LC06060430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060440000>
@@ -5465,7 +5465,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Soufriere Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060440000" ;
+    wdata:Q7200235 "LC06060440000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060450000>
@@ -5477,7 +5477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "St Phillip"@eng-Latn ;
-    wdata:q7200235 "LC06060450000" ;
+    wdata:Q7200235 "LC06060450000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060460000>
@@ -5489,7 +5489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Sulphur Springs"@eng-Latn ;
-    wdata:q7200235 "LC06060460000" ;
+    wdata:Q7200235 "LC06060460000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060470000>
@@ -5501,7 +5501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Ti Boug"@eng-Latn ;
-    wdata:q7200235 "LC06060470000" ;
+    wdata:Q7200235 "LC06060470000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060480000>
@@ -5513,7 +5513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Toraille"@eng-Latn ;
-    wdata:q7200235 "LC06060480000" ;
+    wdata:Q7200235 "LC06060480000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060490000>
@@ -5525,7 +5525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Town"@eng-Latn ;
-    wdata:q7200235 "LC06060490000" ;
+    wdata:Q7200235 "LC06060490000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060490100>
@@ -5537,7 +5537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Baron'S Drive/Coin De L'Anse"@eng-Latn ;
-    wdata:q7200235 "LC06060490100" ;
+    wdata:Q7200235 "LC06060490100" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060490700>
@@ -5549,7 +5549,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Lenny Hill"@eng-Latn ;
-    wdata:q7200235 "LC06060490700" ;
+    wdata:Q7200235 "LC06060490700" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060500000>
@@ -5561,7 +5561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Union Vale"@eng-Latn ;
-    wdata:q7200235 "LC06060500000" ;
+    wdata:Q7200235 "LC06060500000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060530000>
@@ -5573,7 +5573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Zenon"@eng-Latn ;
-    wdata:q7200235 "LC06060530000" ;
+    wdata:Q7200235 "LC06060530000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060550000>
@@ -5585,7 +5585,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "La Haut"@eng-Latn ;
-    wdata:q7200235 "LC06060550000" ;
+    wdata:Q7200235 "LC06060550000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060570000>
@@ -5597,7 +5597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Terre Blanche"@eng-Latn ;
-    wdata:q7200235 "LC06060570000" ;
+    wdata:Q7200235 "LC06060570000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060580000>
@@ -5609,7 +5609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Stonefield"@eng-Latn ;
-    wdata:q7200235 "LC06060580000" ;
+    wdata:Q7200235 "LC06060580000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060600000>
@@ -5621,7 +5621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Fond Gens Libre"@eng-Latn ;
-    wdata:q7200235 "LC06060600000" ;
+    wdata:Q7200235 "LC06060600000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060630000>
@@ -5633,7 +5633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "St Remy Estate"@eng-Latn ;
-    wdata:q7200235 "LC06060630000" ;
+    wdata:Q7200235 "LC06060630000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060640000>
@@ -5645,7 +5645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Compar"@eng-Latn ;
-    wdata:q7200235 "LC06060640000" ;
+    wdata:Q7200235 "LC06060640000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060660000>
@@ -5657,7 +5657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Cenac"@eng-Latn ;
-    wdata:q7200235 "LC06060660000" ;
+    wdata:Q7200235 "LC06060660000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060670000>
@@ -5669,7 +5669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Descolons"@eng-Latn ;
-    wdata:q7200235 "LC06060670000" ;
+    wdata:Q7200235 "LC06060670000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060680000>
@@ -5681,7 +5681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Gros Piton"@eng-Latn ;
-    wdata:q7200235 "LC06060680000" ;
+    wdata:Q7200235 "LC06060680000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060700000>
@@ -5693,7 +5693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Mal Maison"@eng-Latn ;
-    wdata:q7200235 "LC06060700000" ;
+    wdata:Q7200235 "LC06060700000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060710000>
@@ -5705,7 +5705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Morne Tabac"@eng-Latn ;
-    wdata:q7200235 "LC06060710000" ;
+    wdata:Q7200235 "LC06060710000" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060720001>
@@ -5717,7 +5717,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Petit Piton"@eng-Latn ;
-    wdata:q7200235 "LC06060720001" ;
+    wdata:Q7200235 "LC06060720001" ;
 .
 
 <urn:mdciii:1603:16:662:2:6060720002>
@@ -5729,7 +5729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:6> ;
     skos:prefLabel "Ti Delcer"@eng-Latn ;
-    wdata:q7200235 "LC06060720002" ;
+    wdata:Q7200235 "LC06060720002" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070010000>
@@ -5741,7 +5741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Belle Vue"@eng-Latn ;
-    wdata:q7200235 "LC07070010000" ;
+    wdata:Q7200235 "LC07070010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070020000>
@@ -5753,7 +5753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Marche Gaye"@eng-Latn ;
-    wdata:q7200235 "LC07070020000" ;
+    wdata:Q7200235 "LC07070020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070030000>
@@ -5765,7 +5765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Bois D'Inde"@eng-Latn ;
-    wdata:q7200235 "LC07070030000" ;
+    wdata:Q7200235 "LC07070030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070040000>
@@ -5777,7 +5777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Caffiere"@eng-Latn ;
-    wdata:q7200235 "LC07070040000" ;
+    wdata:Q7200235 "LC07070040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070060000>
@@ -5789,7 +5789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Dacretin"@eng-Latn ;
-    wdata:q7200235 "LC07070060000" ;
+    wdata:Q7200235 "LC07070060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070080000>
@@ -5801,7 +5801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Debreiul"@eng-Latn ;
-    wdata:q7200235 "LC07070080000" ;
+    wdata:Q7200235 "LC07070080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070090000>
@@ -5813,7 +5813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Delcer"@eng-Latn ;
-    wdata:q7200235 "LC07070090000" ;
+    wdata:Q7200235 "LC07070090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070100000>
@@ -5825,7 +5825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Derriere Morne"@eng-Latn ;
-    wdata:q7200235 "LC07070100000" ;
+    wdata:Q7200235 "LC07070100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070110000>
@@ -5837,7 +5837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Dugard"@eng-Latn ;
-    wdata:q7200235 "LC07070110000" ;
+    wdata:Q7200235 "LC07070110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070120000>
@@ -5849,7 +5849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Dupre"@eng-Latn ;
-    wdata:q7200235 "LC07070120000" ;
+    wdata:Q7200235 "LC07070120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070140000>
@@ -5861,7 +5861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Esperance"@eng-Latn ;
-    wdata:q7200235 "LC07070140000" ;
+    wdata:Q7200235 "LC07070140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070150000>
@@ -5873,7 +5873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Newfield/Fiette"@eng-Latn ;
-    wdata:q7200235 "LC07070150000" ;
+    wdata:Q7200235 "LC07070150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070160000>
@@ -5885,7 +5885,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Franciou"@eng-Latn ;
-    wdata:q7200235 "LC07070160000" ;
+    wdata:Q7200235 "LC07070160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070170000>
@@ -5897,7 +5897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Industry"@eng-Latn ;
-    wdata:q7200235 "LC07070170000" ;
+    wdata:Q7200235 "LC07070170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070180000>
@@ -5909,7 +5909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "La Fargue"@eng-Latn ;
-    wdata:q7200235 "LC07070180000" ;
+    wdata:Q7200235 "LC07070180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070180100>
@@ -5921,7 +5921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Cedars/Chu Tigre"@eng-Latn ;
-    wdata:q7200235 "LC07070180100" ;
+    wdata:Q7200235 "LC07070180100" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070190000>
@@ -5933,7 +5933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "La Pointe"@eng-Latn ;
-    wdata:q7200235 "LC07070190000" ;
+    wdata:Q7200235 "LC07070190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070200000>
@@ -5945,7 +5945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Lamaze"@eng-Latn ;
-    wdata:q7200235 "LC07070200000" ;
+    wdata:Q7200235 "LC07070200000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070210000>
@@ -5957,7 +5957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Le Riche"@eng-Latn ;
-    wdata:q7200235 "LC07070210000" ;
+    wdata:Q7200235 "LC07070210000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070240000>
@@ -5969,7 +5969,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Mailly Motete"@eng-Latn ;
-    wdata:q7200235 "LC07070240000" ;
+    wdata:Q7200235 "LC07070240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070250000>
@@ -5981,7 +5981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Martin"@eng-Latn ;
-    wdata:q7200235 "LC07070250000" ;
+    wdata:Q7200235 "LC07070250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070260000>
@@ -5993,7 +5993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Mavay"@eng-Latn ;
-    wdata:q7200235 "LC07070260000" ;
+    wdata:Q7200235 "LC07070260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070270000>
@@ -6005,7 +6005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Mongouge"@eng-Latn ;
-    wdata:q7200235 "LC07070270000" ;
+    wdata:Q7200235 "LC07070270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070280000>
@@ -6017,7 +6017,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Motete"@eng-Latn ;
-    wdata:q7200235 "LC07070280000" ;
+    wdata:Q7200235 "LC07070280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070290000>
@@ -6029,7 +6029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Monzie"@eng-Latn ;
-    wdata:q7200235 "LC07070290000" ;
+    wdata:Q7200235 "LC07070290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070300000>
@@ -6041,7 +6041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Morne Jacques"@eng-Latn ;
-    wdata:q7200235 "LC07070300000" ;
+    wdata:Q7200235 "LC07070300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070310000>
@@ -6053,7 +6053,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Morne Sion"@eng-Latn ;
-    wdata:q7200235 "LC07070310000" ;
+    wdata:Q7200235 "LC07070310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070320000>
@@ -6065,7 +6065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Morne Palama"@eng-Latn ;
-    wdata:q7200235 "LC07070320000" ;
+    wdata:Q7200235 "LC07070320000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070350000>
@@ -6077,7 +6077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Ponyon"@eng-Latn ;
-    wdata:q7200235 "LC07070350000" ;
+    wdata:Q7200235 "LC07070350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070360000>
@@ -6089,7 +6089,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Raveneau"@eng-Latn ;
-    wdata:q7200235 "LC07070360000" ;
+    wdata:Q7200235 "LC07070360000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070370000>
@@ -6101,7 +6101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Reunion"@eng-Latn ;
-    wdata:q7200235 "LC07070370000" ;
+    wdata:Q7200235 "LC07070370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070370200>
@@ -6113,7 +6113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Portalese"@eng-Latn ;
-    wdata:q7200235 "LC07070370200" ;
+    wdata:Q7200235 "LC07070370200" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070380000>
@@ -6125,7 +6125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "River Doree"@eng-Latn ;
-    wdata:q7200235 "LC07070380000" ;
+    wdata:Q7200235 "LC07070380000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070390000>
@@ -6137,7 +6137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Roblot"@eng-Latn ;
-    wdata:q7200235 "LC07070390000" ;
+    wdata:Q7200235 "LC07070390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070400000>
@@ -6149,7 +6149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Sauzay"@eng-Latn ;
-    wdata:q7200235 "LC07070400000" ;
+    wdata:Q7200235 "LC07070400000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070420000>
@@ -6161,7 +6161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Victoria"@eng-Latn ;
-    wdata:q7200235 "LC07070420000" ;
+    wdata:Q7200235 "LC07070420000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070430000>
@@ -6173,7 +6173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Village"@eng-Latn ;
-    wdata:q7200235 "LC07070430000" ;
+    wdata:Q7200235 "LC07070430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070430100>
@@ -6185,7 +6185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Savannes George/Constitution Park"@eng-Latn ;
-    wdata:q7200235 "LC07070430100" ;
+    wdata:Q7200235 "LC07070430100" ;
 .
 
 <urn:mdciii:1603:16:662:2:7070440000>
@@ -6197,7 +6197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:7> ;
     skos:prefLabel "Christian Hill"@eng-Latn ;
-    wdata:q7200235 "LC07070440000" ;
+    wdata:Q7200235 "LC07070440000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080010000>
@@ -6209,7 +6209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Annus"@eng-Latn ;
-    wdata:q7200235 "LC08080010000" ;
+    wdata:Q7200235 "LC08080010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080020000>
@@ -6221,7 +6221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Beyar"@eng-Latn ;
-    wdata:q7200235 "LC08080020000" ;
+    wdata:Q7200235 "LC08080020000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080030000>
@@ -6233,7 +6233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Balca"@eng-Latn ;
-    wdata:q7200235 "LC08080030000" ;
+    wdata:Q7200235 "LC08080030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080030100>
@@ -6245,7 +6245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "En Leur Ba/Balca"@eng-Latn ;
-    wdata:q7200235 "LC08080030100" ;
+    wdata:Q7200235 "LC08080030100" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080040000>
@@ -6257,7 +6257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Balembouche"@eng-Latn ;
-    wdata:q7200235 "LC08080040000" ;
+    wdata:Q7200235 "LC08080040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080050000>
@@ -6269,7 +6269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Banse"@eng-Latn ;
-    wdata:q7200235 "LC08080050000" ;
+    wdata:Q7200235 "LC08080050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080060000>
@@ -6281,7 +6281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Banse La Grace"@eng-Latn ;
-    wdata:q7200235 "LC08080060000" ;
+    wdata:Q7200235 "LC08080060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080070000>
@@ -6293,7 +6293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Fond Berange"@eng-Latn ;
-    wdata:q7200235 "LC08080070000" ;
+    wdata:Q7200235 "LC08080070000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080080000>
@@ -6305,7 +6305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Bongalo"@eng-Latn ;
-    wdata:q7200235 "LC08080080000" ;
+    wdata:Q7200235 "LC08080080000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080110000>
@@ -6317,7 +6317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Daban"@eng-Latn ;
-    wdata:q7200235 "LC08080110000" ;
+    wdata:Q7200235 "LC08080110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080110100>
@@ -6329,7 +6329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Warwick/Daban"@eng-Latn ;
-    wdata:q7200235 "LC08080110100" ;
+    wdata:Q7200235 "LC08080110100" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080120000>
@@ -6341,7 +6341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Gayabois"@eng-Latn ;
-    wdata:q7200235 "LC08080120000" ;
+    wdata:Q7200235 "LC08080120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080130000>
@@ -6353,7 +6353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Gentil"@eng-Latn ;
-    wdata:q7200235 "LC08080130000" ;
+    wdata:Q7200235 "LC08080130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080140000>
@@ -6365,7 +6365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Getrine"@eng-Latn ;
-    wdata:q7200235 "LC08080140000" ;
+    wdata:Q7200235 "LC08080140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080150000>
@@ -6377,7 +6377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Giraud"@eng-Latn ;
-    wdata:q7200235 "LC08080150000" ;
+    wdata:Q7200235 "LC08080150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080160000>
@@ -6389,7 +6389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "H'Erelle"@eng-Latn ;
-    wdata:q7200235 "LC08080160000" ;
+    wdata:Q7200235 "LC08080160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080220000>
@@ -6401,7 +6401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "La Haut"@eng-Latn ;
-    wdata:q7200235 "LC08080220000" ;
+    wdata:Q7200235 "LC08080220000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080230000>
@@ -6413,7 +6413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "La Perle"@eng-Latn ;
-    wdata:q7200235 "LC08080230000" ;
+    wdata:Q7200235 "LC08080230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080250000>
@@ -6425,7 +6425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Londonderry"@eng-Latn ;
-    wdata:q7200235 "LC08080250000" ;
+    wdata:Q7200235 "LC08080250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080260000>
@@ -6437,7 +6437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Macdomel"@eng-Latn ;
-    wdata:q7200235 "LC08080260000" ;
+    wdata:Q7200235 "LC08080260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080270000>
@@ -6449,7 +6449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Morne Gomier"@eng-Latn ;
-    wdata:q7200235 "LC08080270000" ;
+    wdata:Q7200235 "LC08080270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080280000>
@@ -6461,7 +6461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Morne Le Blanc"@eng-Latn ;
-    wdata:q7200235 "LC08080280000" ;
+    wdata:Q7200235 "LC08080280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080290000>
@@ -6473,7 +6473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Morne Lezard Estate"@eng-Latn ;
-    wdata:q7200235 "LC08080290000" ;
+    wdata:Q7200235 "LC08080290000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080300000>
@@ -6485,7 +6485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Morne Paul"@eng-Latn ;
-    wdata:q7200235 "LC08080300000" ;
+    wdata:Q7200235 "LC08080300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080310000>
@@ -6497,7 +6497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Olibo"@eng-Latn ;
-    wdata:q7200235 "LC08080310000" ;
+    wdata:Q7200235 "LC08080310000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080320000>
@@ -6509,7 +6509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Parc Estate"@eng-Latn ;
-    wdata:q7200235 "LC08080320000" ;
+    wdata:Q7200235 "LC08080320000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080330000>
@@ -6521,7 +6521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Piaye"@eng-Latn ;
-    wdata:q7200235 "LC08080330000" ;
+    wdata:Q7200235 "LC08080330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080350000>
@@ -6533,7 +6533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Saltibus"@eng-Latn ;
-    wdata:q7200235 "LC08080350000" ;
+    wdata:Q7200235 "LC08080350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080360000>
@@ -6545,7 +6545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Saphire"@eng-Latn ;
-    wdata:q7200235 "LC08080360000" ;
+    wdata:Q7200235 "LC08080360000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080390000>
@@ -6557,7 +6557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Tete Morne"@eng-Latn ;
-    wdata:q7200235 "LC08080390000" ;
+    wdata:Q7200235 "LC08080390000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080410000>
@@ -6569,7 +6569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Village"@eng-Latn ;
-    wdata:q7200235 "LC08080410000" ;
+    wdata:Q7200235 "LC08080410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:8080411300>
@@ -6581,7 +6581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:8> ;
     skos:prefLabel "Kennedy Highway"@eng-Latn ;
-    wdata:q7200235 "LC08080411300" ;
+    wdata:Q7200235 "LC08080411300" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090010000>
@@ -6593,7 +6593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Augier"@eng-Latn ;
-    wdata:q7200235 "LC09090010000" ;
+    wdata:Q7200235 "LC09090010000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090010300>
@@ -6605,7 +6605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Derierre Bois"@eng-Latn ;
-    wdata:q7200235 "LC09090010300" ;
+    wdata:Q7200235 "LC09090010300" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090010500>
@@ -6617,7 +6617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Obrier"@eng-Latn ;
-    wdata:q7200235 "LC09090010500" ;
+    wdata:Q7200235 "LC09090010500" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090030000>
@@ -6629,7 +6629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Beane Field"@eng-Latn ;
-    wdata:q7200235 "LC09090030000" ;
+    wdata:Q7200235 "LC09090030000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090030200>
@@ -6641,7 +6641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Anse De Sables/Beane Field"@eng-Latn ;
-    wdata:q7200235 "LC09090030200" ;
+    wdata:Q7200235 "LC09090030200" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090040000>
@@ -6653,7 +6653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Beausejour"@eng-Latn ;
-    wdata:q7200235 "LC09090040000" ;
+    wdata:Q7200235 "LC09090040000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090050000>
@@ -6665,7 +6665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Belle Vue"@eng-Latn ;
-    wdata:q7200235 "LC09090050000" ;
+    wdata:Q7200235 "LC09090050000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090060000>
@@ -6677,7 +6677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Black Bay"@eng-Latn ;
-    wdata:q7200235 "LC09090060000" ;
+    wdata:Q7200235 "LC09090060000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090090000>
@@ -6689,7 +6689,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Cantonement"@eng-Latn ;
-    wdata:q7200235 "LC09090090000" ;
+    wdata:Q7200235 "LC09090090000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090100000>
@@ -6701,7 +6701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Carierre"@eng-Latn ;
-    wdata:q7200235 "LC09090100000" ;
+    wdata:Q7200235 "LC09090100000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090110000>
@@ -6713,7 +6713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Catin"@eng-Latn ;
-    wdata:q7200235 "LC09090110000" ;
+    wdata:Q7200235 "LC09090110000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090120000>
@@ -6725,7 +6725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Cocoa Dan"@eng-Latn ;
-    wdata:q7200235 "LC09090120000" ;
+    wdata:Q7200235 "LC09090120000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090130000>
@@ -6737,7 +6737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Coolie Town"@eng-Latn ;
-    wdata:q7200235 "LC09090130000" ;
+    wdata:Q7200235 "LC09090130000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090140000>
@@ -6749,7 +6749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "De Mailly"@eng-Latn ;
-    wdata:q7200235 "LC09090140000" ;
+    wdata:Q7200235 "LC09090140000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090150000>
@@ -6761,7 +6761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Derierre Morne"@eng-Latn ;
-    wdata:q7200235 "LC09090150000" ;
+    wdata:Q7200235 "LC09090150000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090160000>
@@ -6773,7 +6773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Eau Piquant/St Urbain"@eng-Latn ;
-    wdata:q7200235 "LC09090160000" ;
+    wdata:Q7200235 "LC09090160000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090170000>
@@ -6785,7 +6785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Esperance"@eng-Latn ;
-    wdata:q7200235 "LC09090170000" ;
+    wdata:Q7200235 "LC09090170000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090180000>
@@ -6797,7 +6797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Fond Sabot"@eng-Latn ;
-    wdata:q7200235 "LC09090180000" ;
+    wdata:Q7200235 "LC09090180000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090190000>
@@ -6809,7 +6809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Grace"@eng-Latn ;
-    wdata:q7200235 "LC09090190000" ;
+    wdata:Q7200235 "LC09090190000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090190300>
@@ -6821,7 +6821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Woodlands"@eng-Latn ;
-    wdata:q7200235 "LC09090190300" ;
+    wdata:Q7200235 "LC09090190300" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090220000>
@@ -6833,7 +6833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Hope Estate"@eng-Latn ;
-    wdata:q7200235 "LC09090220000" ;
+    wdata:Q7200235 "LC09090220000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090230000>
@@ -6845,7 +6845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Industrial Estate"@eng-Latn ;
-    wdata:q7200235 "LC09090230000" ;
+    wdata:Q7200235 "LC09090230000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090240000>
@@ -6857,7 +6857,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Hewanorra Orchard"@eng-Latn ;
-    wdata:q7200235 "LC09090240000" ;
+    wdata:Q7200235 "LC09090240000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090250000>
@@ -6869,7 +6869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Joyeux"@eng-Latn ;
-    wdata:q7200235 "LC09090250000" ;
+    wdata:Q7200235 "LC09090250000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090260000>
@@ -6881,7 +6881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "La Resource"@eng-Latn ;
-    wdata:q7200235 "LC09090260000" ;
+    wdata:Q7200235 "LC09090260000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090260100>
@@ -6893,7 +6893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Docamel/La Resource"@eng-Latn ;
-    wdata:q7200235 "LC09090260100" ;
+    wdata:Q7200235 "LC09090260100" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090270000>
@@ -6905,7 +6905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "La Retraite"@eng-Latn ;
-    wdata:q7200235 "LC09090270000" ;
+    wdata:Q7200235 "LC09090270000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090280000>
@@ -6917,7 +6917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "La Tourney/Cedar Heights"@eng-Latn ;
-    wdata:q7200235 "LC09090280000" ;
+    wdata:Q7200235 "LC09090280000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090300000>
@@ -6929,7 +6929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Maganier"@eng-Latn ;
-    wdata:q7200235 "LC09090300000" ;
+    wdata:Q7200235 "LC09090300000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090330000>
@@ -6941,7 +6941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Morne Cayenne"@eng-Latn ;
-    wdata:q7200235 "LC09090330000" ;
+    wdata:Q7200235 "LC09090330000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090340000>
@@ -6953,7 +6953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Morne Vert"@eng-Latn ;
-    wdata:q7200235 "LC09090340000" ;
+    wdata:Q7200235 "LC09090340000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090350000>
@@ -6965,7 +6965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Moule A Chique"@eng-Latn ;
-    wdata:q7200235 "LC09090350000" ;
+    wdata:Q7200235 "LC09090350000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090360000>
@@ -6977,7 +6977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Pierrot"@eng-Latn ;
-    wdata:q7200235 "LC09090360000" ;
+    wdata:Q7200235 "LC09090360000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090360100>
@@ -6989,7 +6989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Tete Morne/Morne Andrew"@eng-Latn ;
-    wdata:q7200235 "LC09090360100" ;
+    wdata:Q7200235 "LC09090360100" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090370000>
@@ -7001,7 +7001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Plut"@eng-Latn ;
-    wdata:q7200235 "LC09090370000" ;
+    wdata:Q7200235 "LC09090370000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090380000>
@@ -7013,7 +7013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Pomme"@eng-Latn ;
-    wdata:q7200235 "LC09090380000" ;
+    wdata:Q7200235 "LC09090380000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090400000>
@@ -7025,7 +7025,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Bruceville/Shanty Town"@eng-Latn ;
-    wdata:q7200235 "LC09090400000" ;
+    wdata:Q7200235 "LC09090400000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090410000>
@@ -7037,7 +7037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "St Jude'S Highway"@eng-Latn ;
-    wdata:q7200235 "LC09090410000" ;
+    wdata:Q7200235 "LC09090410000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090430000>
@@ -7049,7 +7049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Town"@eng-Latn ;
-    wdata:q7200235 "LC09090430000" ;
+    wdata:Q7200235 "LC09090430000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090433300>
@@ -7061,7 +7061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Westall Group/The Mangue"@eng-Latn ;
-    wdata:q7200235 "LC09090433300" ;
+    wdata:Q7200235 "LC09090433300" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090440000>
@@ -7073,7 +7073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Vieux Fort/Laborie Highway"@eng-Latn ;
-    wdata:q7200235 "LC09090440000" ;
+    wdata:Q7200235 "LC09090440000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090440100>
@@ -7085,7 +7085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Viancelle"@eng-Latn ;
-    wdata:q7200235 "LC09090440100" ;
+    wdata:Q7200235 "LC09090440100" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090510000>
@@ -7097,7 +7097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Vige'"@eng-Latn ;
-    wdata:q7200235 "LC09090510000" ;
+    wdata:Q7200235 "LC09090510000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090520000>
@@ -7109,7 +7109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "En Bamboo"@eng-Latn ;
-    wdata:q7200235 "LC09090520000" ;
+    wdata:Q7200235 "LC09090520000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090530000>
@@ -7121,7 +7121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Fond Capeche"@eng-Latn ;
-    wdata:q7200235 "LC09090530000" ;
+    wdata:Q7200235 "LC09090530000" ;
 .
 
 <urn:mdciii:1603:16:662:2:9090540000>
@@ -7133,6 +7133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:662:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:662:1:9> ;
     skos:prefLabel "Cacoa"@eng-Latn ;
-    wdata:q7200235 "LC09090540000" ;
+    wdata:Q7200235 "LC09090540000" ;
 .
 
